@@ -1,0 +1,82 @@
+{
+  "drawingTitle": "المنزل المثالي",
+  "overallMood": "concerning",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "الأصفر",
+        "percentage": 0.4,
+        "symbolism": "الفرح معتدل"
+      },
+      {
+        "color": "الكحلي",
+        "percentage": 0.2,
+        "symbolism": "الراحة والهدوء"
+      },
+      {
+        "color": "الأزرق",
+        "percentage": 0.1,
+        "symbolism": "السماوات المعتدلة"
+      },
+      {
+        "color": "الأحمر",
+        "percentage": 0.1,
+        "symbolism": "الحب والسعادة"
+      },
+      {
+        "color": "الأصفر-القاني",
+        "percentage": 0.1,
+        "symbolism": "الضوء والمطر بعد التوقف عن الطقس الصافي"
+      }
+    ],
+    "colorDiversity": 0.55,
+    "emotionalColorChoices": 0.6,
+    "ageAppropriateColorUse": 0.85,
+    "colorSymbolism": "مزج متوازن بين الألوان الدافئة والباردة'",
+    "colorPatterns": "استخدام واضح للأنماط في التشكيلات'",
+    "unusualColorChoices": ""
+  },
+  "emotionalIndicators": {
+    "happiness": 0.8,
+    "confidence": 0.7,
+    "creativity": 0.7,
+    "socialBonds": 0.5
+  },
+  "personalityTraits": {
+    "extroversion": 0.6,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.5,
+    "openness": 0.7,
+    "agreeableness": 0.5
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "فرح بسيط عن الأصدقاء",
+      "description": "قد يشير إلى حنين للأصدقاء أو تجربة إيجابية معهم."
+    },
+    {
+      "emoji": "🏠",
+      "title": "المنزل الجيد",
+      "description": "يشير إلى الراحة والإرتباط بالمنزل والجوار العزيز."
+    }
+  ],
+  "recommendations": [
+    "قد يستثمر طفلك معك في حكايات حول المواقف التي رسمها. هذه ستعزز التعبير العاطفي.",
+    "من الجيد توضيح أحيانا أهمية الأصدقاء والتفاهم المتبادل مع أفراد الأسرة."
+  ],
+  "concerns": [
+    "قد يستحق هذا الجانب من الرسمة اهتماماً لطيفاً ومتابعة دافئة مع طفلك.",
+    "قد يعكس هذا شيئاً يحتاج طفلك للتعبير عنه - فتح حوار هادئ قد يُفيد."
+  ],
+  "createdAt": "2023-10-07T14:30:00Z",
+  "_meta": {
+    "module": "c",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_3",
+    "prompt_version": "v4_arabic",
+    "validation_errors": [
+      ": Value error, keyInsights must have 3–6 entries, got 2"
+    ]
+  }
+}

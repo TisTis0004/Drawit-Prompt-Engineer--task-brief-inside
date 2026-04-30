@@ -1,0 +1,73 @@
+{
+  "drawingTitle": "A Serene Landscape with Family and Homes",
+  "overallMood": "neutral",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "light green",
+        "percentage": 0.45,
+        "symbolism": "Reflects a sense of growth, peace, and harmony within the child's environment."
+      },
+      {
+        "color": "brown",
+        "percentage": 0.2,
+        "symbolism": "Suggests a need for stability and a grounded connection to the home and family roots."
+      },
+      {
+        "color": "red",
+        "percentage": 0.15,
+        "symbolism": "Indicates warmth, energy, and emotional importance placed on the domestic structures."
+      },
+      {
+        "color": "blue",
+        "percentage": 0.1,
+        "symbolism": "Represents tranquility and a calm, thoughtful perspective on the world around them."
+      }
+    ],
+    "colorDiversity": 0.7,
+    "emotionalColorChoices": 0.8,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "A balanced and natural palette reflecting a peaceful, grounded, and secure emotional state.",
+    "colorPatterns": "Delicate shading and clear outlines that define both the family figures and the surrounding landscape.",
+    "unusualColorChoices": "The 'X' mark on the roof is a unique structural detail that stands out in the composition."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.7,
+    "confidence": 0.6,
+    "creativity": 0.7,
+    "socialBonds": 0.8
+  },
+  "personalityTraits": {
+    "extroversion": 0.6,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.7,
+    "openness": 0.6,
+    "agreeableness": 0.7
+  },
+  "keyInsights": [
+    {
+      "emoji": "👪",
+      "title": "Family Connection & Centrality",
+      "description": "The child is centrally placed between two adult figures, suggesting a strong sense of belonging and positive family dynamics."
+    },
+    {
+      "emoji": "🏡",
+      "title": "Environmental Emphasis",
+      "description": "Prominent, detailed houses contrast with simpler figures, possibly indicating a focus on the home environment or feeling small within external structures."
+    },
+    {
+      "emoji": "🗺️",
+      "title": "Developing Worldview",
+      "description": "The landscape composition reflects developing cognitive maturity and spatial awareness, showing a clear understanding of the world's layout."
+    }
+  ],
+  "recommendations": [
+    "Continue encouraging creative expression through art activities, offering a variety of materials and subjects to explore.",
+    "Celebrate each artwork to boost the child's confidence and joy in creating, emphasizing their effort, unique ideas, and storytelling."
+  ],
+  "concerns": [
+    "The use of stick figures for people is somewhat simplified for a 10-year-old and may suggest self-consciousness about artistic ability.",
+    "The prominent 'X' mark on the largest house's roof is an unusual detail that warrants gentle inquiry to understand its intended meaning."
+  ],
+  "createdAt": "2026-04-29T10:28:00Z"
+}

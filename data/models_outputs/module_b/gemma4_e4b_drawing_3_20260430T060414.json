@@ -1,0 +1,87 @@
+{
+  "drawingTitle": "Outdoor family scene with path",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "Blue",
+        "percentage": 0.1,
+        "symbolism": "The use of outlined blue for the home suggests a desire for solid, stable emotional boundaries."
+      },
+      {
+        "color": "Green",
+        "percentage": 0.15,
+        "symbolism": "The soft green used for nature elements contributes a calming and grounding feeling to the piece."
+      },
+      {
+        "color": "Red/Pink",
+        "percentage": 0.15,
+        "symbolism": "These warm tones provide accents of warmth and connection within the overall domestic scene."
+      },
+      {
+        "color": "Black/Gray",
+        "percentage": 0.1,
+        "symbolism": "The simple, sturdy lines define the figures and the path, establishing a sense of structure and movement."
+      }
+    ],
+    "colorDiversity": 0.5,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "The palette relies on primary and secondary colors associated with comforting, natural settings (earth, sky, foliage).",
+    "colorPatterns": "The colors are generally used to delineate separate objects (outline, filling), rather than blending or creating complex tonal variations.",
+    "unusualColorChoices": "N/A"
+  },
+  "emotionalIndicators": {
+    "happiness": 0.5,
+    "confidence": 0.6,
+    "creativity": 0.4,
+    "socialBonds": 0.6
+  },
+  "personalityTraits": {
+    "extroversion": 0.5,
+    "emotionalStability": 0.6,
+    "conscientiousness": 0.5,
+    "openness": 0.5,
+    "agreeableness": 0.5
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏡",
+      "title": "Stable sense of home",
+      "description": "The prominent drawing of a house suggests that feelings of security, boundaries, and belonging are very important to you right now."
+    },
+    {
+      "emoji": "🧑‍🤝‍🧑",
+      "title": "Focus on community",
+      "description": "The cluster of simple figures indicates that your relationships with others and feelings of being part of a group are key sources of strength."
+    },
+    {
+      "emoji": "🌿",
+      "title": "Connection to nature",
+      "description": "The attention to the greens and the path shows that finding peace and movement in the natural world is emotionally grounding for you."
+    },
+    {
+      "emoji": "🤸",
+      "title": "Comfort with simplicity",
+      "description": "The minimalist style—using simple lines for people and buildings—could suggest you are comfortable keeping things clear and uncomplicated."
+    }
+  ],
+  "recommendations": [
+    "Help brainstorm stories about the path in the drawing. Ask, 'Who is walking along this path, and where are they going?' to encourage narrative play.",
+    "Spend time doing focused nature walks together, pointing out specific details (moss, types of branches) to engage the sense of detailed observation.",
+    "Embrace collaborative art projects where there is no 'right' way to draw; this helps strengthen the feeling of shared effort and non-judgemental space."
+  ],
+  "concerns": [
+    "The figures are depicted with very minimal detail (stick-figure level), which could suggest you are currently simplifying or depersonalizing emotional self-reporting.",
+    "The landscape elements are generalized and lack specific activity, which may suggest a desire to keep emotional boundaries simple or contained.",
+    "The overall reliance on outlines and constructed shapes rather than detailed shading or texture might indicate a tendency to keep things pleasantly abstract."
+  ],
+  "createdAt": "2026-04-30T03:04:14.249095+00:00",
+  "_meta": {
+    "module": "b",
+    "model": "gemma4:e4b",
+    "drawing_id": "drawing_3",
+    "prompt_version": "v3_optimized",
+    "validation_errors": []
+  }
+}

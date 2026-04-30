@@ -1,0 +1,69 @@
+{
+  "drawingTitle": "House and Rainbow Scene",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "brown",
+        "percentage": 0.25,
+        "symbolism": "Indicates a secure, foundational element in the child's worldview."
+      },
+      {
+        "color": "green",
+        "percentage": 0.4,
+        "symbolism": "Suggests life, growth, and a positive emotional environment surrounding the child."
+      }
+    ],
+    "colorDiversity": 0.7,
+    "emotionalColorChoices": 0.8,
+    "ageAppropriateColorUse": 0.95,
+    "colorSymbolism": "The warm browns are grounded and stable, while the bright greens and rainbow hues inject noticeable energy and joy.",
+    "colorPatterns": "The vibrant use of color is spread consistently across different areas (sky, ground, foliage), suggesting emotional completeness.",
+    "unusualColorChoices": "Minimal; the colors used are very classic and well-matched for an 8-year-old's joyful expression."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.8,
+    "confidence": 0.6,
+    "creativity": 0.5,
+    "socialBonds": 0.7
+  },
+  "personalityTraits": {
+    "extroversion": 0.6,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.6,
+    "openness": 0.5,
+    "agreeableness": 0.7
+  },
+  "keyInsights": [
+    {
+      "emoji": "🌈",
+      "title": "Bright, promising outlook",
+      "description": "The rainbow traversing the sky is a wonderful sign of hope and visible optimism for the future."
+    },
+    {
+      "emoji": "🏡",
+      "title": "Sense of belonging",
+      "description": "The house, positioned centrally, suggests that stability, family, and roots are very important to your child right now."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Grounding and support",
+      "description": "The trees anchor the scene, helping to portray the child as feeling supported by their environment and natural structures."
+    },
+    {
+      "emoji": "👧",
+      "title": "Confident portrayal of self",
+      "description": "The figure is smiling and standing independently, suggesting a comfortable and positive relationship with her own identity."
+    }
+  ],
+  "recommendations": [
+    "To nurture her creativity, try drawing 'together' activities (e.g., coloring in a detailed landscape) where the focus is on the process, not the product.",
+    "Since the drawings emphasize the home and stability, incorporating routine storytelling or creating a 'family corner' routine at home can reinforce that feeling of safety.",
+    "Regarding emotional connection, gentle outdoor play activities (like nature walks or gardening) could help channel some of that natural, joyful energy observed in her art."
+  ],
+  "concerns": [
+    "The scale of the environment is often generalized (e.g., fields of green), which might reflect a tendency to focus on big, overarching feelings rather than minute details.",
+    "While positive, the composition is highly symmetrical and structured, which could suggest a slight need to explore areas of spontaneity and unexpected play time."
+  ],
+  "createdAt": "2023-10-27T12:00:00Z"
+}

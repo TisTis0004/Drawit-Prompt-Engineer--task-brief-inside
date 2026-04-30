@@ -1,0 +1,78 @@
+{
+  "drawingTitle": "منزل الطفولة",
+  "overallMood": "مستبشر",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "اللون الأرجواني",
+        "percentage": 0.2,
+        "symbolism": "سكون وتواضع%"
+      },
+      {
+        "color": "اللون الكريمي",
+        "percentage": 0.2,
+        "symbolism": "'دفء العائلة'"
+      },
+      {
+        "color": "اللون الأخضر",
+        "percentage": 0.2,
+        "symbolism": "نمو واسترخاء%"
+      },
+      {
+        "color": "اللون الأبيض",
+        "percentage": 0.3,
+        "symbolism": "سلامة وراحة%"
+      }
+    ],
+    "colorDiversity": 0.8,
+    "emotionalColorChoices": 0.8,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "من ألوان الحب وراحة النفس%",
+    "colorPatterns": "استخدم الحين أنماط متنوعة%",
+    "unusualColorChoices": "لم يتم التعبير عن الألوان الغريبة%"
+  },
+  "emotionalIndicators": {
+    "happiness": 0.9,
+    "confidence": 0.6,
+    "creativity": 0.5,
+    "socialBonds": 0.5
+  },
+  "personalityTraits": {
+    "extroversion": 0.7,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.3,
+    "openness": 0.4,
+    "agreeableness": 0.7
+  },
+  "keyInsights": [
+    {
+      "emoji": "👶",
+      "title": "الطفل الكائن%",
+      "description": "قد يعكس هذا الطفل السعادة والحب الذي تحمله%"
+    },
+    {
+      "emoji": "🏡",
+      "title": "منزل السكينة%",
+      "description": " يستحق هذا الجانب من الرسمة اهتماماً لطيفاً ومتابعة دافئة مع طفلك%"
+    }
+  ],
+  "recommendations": [
+    "كنزي على التحدث مع طفلك عن المنزل والحول إليه في حياته اليومية",
+    "يجب تعميق فهمك لطموحات الطفل وقد تكون هذه الرسمة رداً للسؤال عن الحول الذي يرغب به"
+  ],
+  "concerns": [
+    "لا توجد أي مخاوف في هذا الرسم%",
+    "يمكن أن يعكس هذا الرسم تفاعل الطفل مع العالم حوله%",
+    "لا يتطلب الأمر التدخل بل يشجع الاتصال مع الطفل"
+  ],
+  "createdAt": "2023-09-10T22:30:00Z",
+  "_meta": {
+    "module": "c",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_1",
+    "prompt_version": "v4_arabic",
+    "validation_errors": [
+      "overallMood: Value error, overallMood must be one of {'يستدعي الانتباه', 'ايجابي', 'neutral', 'concerning', 'positive', 'طبيعي'}, got 'مستبشر'"
+    ]
+  }
+}

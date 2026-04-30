@@ -1,0 +1,92 @@
+{
+  "drawingTitle": "A Structured Scene with Home, Self, and Nature",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "Purple",
+        "percentage": 0.15,
+        "symbolism": "Suggests imagination, uniqueness, and a desire to stand out within the familial structure."
+      },
+      {
+        "color": "Light Blue",
+        "percentage": 0.1,
+        "symbolism": "Represents calm, clarity, and emotional accessibility regarding the sense of home."
+      },
+      {
+        "color": "Red",
+        "percentage": 0.08,
+        "symbolism": "A foundational color representing energy, vitality, and a clear sense of self/personal presence."
+      },
+      {
+        "color": "Brown",
+        "percentage": 0.18,
+        "symbolism": "Grounding and stability; emphasizes connection to the earth and physical self."
+      },
+      {
+        "color": "Green",
+        "percentage": 0.12,
+        "symbolism": "Natural growth, renewal, and emotional balance."
+      }
+    ],
+    "colorDiversity": 0.8,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "The strong use of primary and secondary colors, applied solidly and purposefully, indicates a stable sense of self and a confident emotional approach to life.",
+    "colorPatterns": "Dominant use of block fills and solid outlines, suggesting a preference for definition and structure in thinking.",
+    "unusualColorChoices": "No strikingly unusual or jarring color choices are present; the palette is comforting and classic."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.7,
+    "confidence": 0.6,
+    "creativity": 0.5,
+    "socialBonds": 0.6
+  },
+  "personalityTraits": {
+    "extroversion": 0.6,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.6,
+    "openness": 0.5,
+    "agreeableness": 0.6
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏡",
+      "title": "Sustained sense of 'home'",
+      "description": "The presence of a distinct house figure suggests that the child is currently integrating thoughts about family and belonging into their self-concept. This is a healthy and stable exploration."
+    },
+    {
+      "emoji": "👓",
+      "title": "Detailing the self's persona",
+      "description": "Adding specific details like glasses to the person figure suggests a growing level of cognitive self-awareness and paying attention to how they perceive themselves in the world."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Grounded feelings and roots",
+      "description": "The tree is drawn with clear, substantial roots. This often suggests the child feels anchored and stable in their emotional or physical foundation."
+    },
+    {
+      "emoji": "⚖️",
+      "title": "Balanced element composition",
+      "description": "The drawing is composed of three primary, recognized life anchors (Self, Family, Nature), indicating the child is processing these elements in a balanced, harmonious way."
+    }
+  ],
+  "recommendations": [
+    "Continue validating the effort and structure inherent in their creative work, specifically praising the detailed edges or careful compositions.",
+    "When playing together, initiate conversations about 'boundaries'—for example, 'What keeps us safe?' or 'What rule do we need in our room?'—to mirror the fence in the drawing.",
+    "Encourage drawing beyond the HTP framework; invite them to draw a 'perfect day' or a 'favorite adventure' to see which elements they focus on naturally."
+  ],
+  "concerns": [
+    "The drawing is highly structured; while this shows competence, be mindful of potentially over-emphasizing rules or boundaries (like the fence).",
+    "The reliance on established iconography (HTP) suggests a tendency to fit life challenges into known, solvable categories.",
+    "The overall mood is stable, but continued observation is needed to ensure this sense of structure remains flexible enough for unexpected life changes."
+  ],
+  "createdAt": "2026-04-30T00:51:54.099917+00:00",
+  "_meta": {
+    "module": "a",
+    "model": "gemma4:e4b",
+    "drawing_id": "drawing_4_paper",
+    "prompt_version": "v1_original",
+    "validation_errors": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "drawingTitle": "Two People on a Hill with Houses and a Tree",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "Light Green",
+        "percentage": 0.25,
+        "symbolism": "Suggests a connection to nature, growth, and a desire for peace or tranquility in the environment."
+      },
+      {
+        "color": "Reddish-Brown",
+        "percentage": 0.08,
+        "symbolism": "May indicate warmth, groundedness, and a sense of homeliness within the larger structure."
+      },
+      {
+        "color": "Light Blue",
+        "percentage": 0.05,
+        "symbolism": "Could reflect a sense of calm, stability, and perhaps a gentle presence associated with that particular home."
+      },
+      {
+        "color": "Grey/Black",
+        "percentage": 0.05,
+        "symbolism": "Primarily used for outlining and structural details, suggesting a practical approach to defining elements and boundaries."
+      }
+    ],
+    "colorDiversity": 0.7,
+    "emotionalColorChoices": 0.6,
+    "ageAppropriateColorUse": 0.7,
+    "colorSymbolism": "The overall palette leans towards natural and soft tones, suggesting a generally calm and grounded emotional landscape. The light application of colors across the drawing may speak to a gentle temperament or a quiet approach to expression.",
+    "colorPatterns": "Colors are applied within clear, defined areas, mostly with light pressure, creating a soft and gentle effect. There is a faint, broad wash of yellow-green in the background, adding a subtle atmospheric quality.",
+    "unusualColorChoices": "There are no overtly unusual color choices; the child uses a standard palette for representing a natural landscape with houses. The notable aspect is the consistent light pressure rather than specific color selections."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.6,
+    "confidence": 0.5,
+    "creativity": 0.7,
+    "socialBonds": 0.7
+  },
+  "personalityTraits": {
+    "extroversion": 0.5,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.6,
+    "openness": 0.6,
+    "agreeableness": 0.7
+  },
+  "keyInsights": [
+    {
+      "emoji": "🌱",
+      "title": "A Sense of Peace",
+      "description": "The presence of a serene landscape, with soft colors and organized elements, may suggest your child feels a general sense of peace and order in their world."
+    },
+    {
+      "emoji": "🤝",
+      "title": "Value on Connection",
+      "description": "The two figures standing close together on the hill, facing the same direction, could indicate a gentle emphasis on companionship and social connections."
+    },
+    {
+      "emoji": "🏡",
+      "title": "Detailed Environment",
+      "description": "The attention to details in the houses, like windows and roof textures, suggests your child is observant and enjoys building a structured and complete setting in their imagination."
+    },
+    {
+      "emoji": "✏️",
+      "title": "Gentle Expression Style",
+      "description": "The overall light line pressure and delicate application of color across the drawing may reflect a gentle or quiet approach to expressing themselves at this time."
+    }
+  ],
+  "recommendations": [
+    "Encourage your child to tell stories about the characters in their drawing – what are they doing, where are they going? This can offer wonderful insights into their inner world.",
+    "Offer a variety of art materials, including crayons, markers, and paint, to explore different textures and color intensities, which can sometimes reveal varying emotional expressions.",
+    "Spend time engaging in conversations about the different elements of the drawing, asking open-ended questions like, 'What's happening in this house?' or 'How do these people feel today?'"
+  ],
+  "concerns": [
+    "The very simplified stick figures for an 8-year-old, while common in earlier stages, may suggest a current focus elsewhere or a gentle, less assertive self-representation rather than a more detailed depiction of people.",
+    "The generally light line pressure throughout the drawing could indicate a quiet or gentle disposition, or perhaps a moment of lower energy or slight hesitation in asserting their ideas.",
+    "The placement of the two people quite distant from the houses might gently suggest a current focus more on connection with others than on the immediate home environment itself, or it could simply be a compositional choice."
+  ],
+  "createdAt": "2026-04-30T02:02:16.588606+00:00",
+  "_meta": {
+    "module": "b",
+    "model": "gemini-2.5-flash",
+    "drawing_id": "drawing_3",
+    "prompt_version": "v3_optimized",
+    "validation_errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "drawingTitle": "A Structured Home and Garden Scene",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "Purple/Lavender",
+        "percentage": 0.35,
+        "symbolism": "Represents imagination, creativity, and an interest in depth or uniqueness of emotional experience."
+      },
+      {
+        "color": "Brown/Gray",
+        "percentage": 0.28,
+        "symbolism": "Suggests a need for structure, grounding, and a solid foundation in daily life or environment."
+      },
+      {
+        "color": "Light Blue",
+        "percentage": 0.08,
+        "symbolism": "Often relates to ideas of emotional clarity, calm thought, or an appreciation for subtle intellectual details."
+      }
+    ],
+    "colorDiversity": 0.7,
+    "emotionalColorChoices": 0.6,
+    "ageAppropriateColorUse": 0.7,
+    "colorSymbolism": "The use of purple and blue, combined with browns, suggests that the child is engaging with concepts that involve both imagination (purple) and a desire for stability (brown).",
+    "colorPatterns": "Utilizes block fills for major areas (roof, foliage), indicating a thoughtful placement and control over material.",
+    "unusualColorChoices": "The distinct pairing of the purple roof with the earthy browns suggests a blending of whimsical inner life with practical reality."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.5,
+    "confidence": 0.6,
+    "creativity": 0.5,
+    "socialBonds": 0.3
+  },
+  "personalityTraits": {
+    "extroversion": 0.4,
+    "emotionalStability": 0.6,
+    "conscientiousness": 0.5,
+    "openness": 0.6,
+    "agreeableness": 0.5
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏠",
+      "title": "Focus on Home and Safety",
+      "description": "The strong presence of the house suggests that emotional safety, stability, and foundational relationships are highly important to your child right now."
+    },
+    {
+      "emoji": "🎨",
+      "title": "Whimsical Inner World",
+      "description": "The creative use of colors like purple, especially on the roof, suggests a rich and imaginative inner life that they are confident in exploring."
+    },
+    {
+      "emoji": "🧩",
+      "title": "Need for Structure",
+      "description": "The care taken in drawing the path and defined boundaries indicates that your child appreciates order and routine in their physical and emotional environment."
+    },
+    {
+      "emoji": "🌌",
+      "title": "Observational Focus",
+      "description": "The detail given to the surrounding elements (clouds, foliage) suggests the child spends time observing the world around them and thinking about how things relate."
+    }
+  ],
+  "recommendations": [
+    "Engage in structured play that involves building or arranging objects (like blocks or LEGOs) to help validate their appreciation for order and structure.",
+    "Continue inviting open conversations about feelings using imaginative scenarios (e.g., 'If this roof could talk, what would it say about the day?').",
+    "Provide ample time for non-directed, quiet creative time where they can draw or build simply for pleasure, without needing a specific outcome."
+  ],
+  "concerns": [
+    "The drawing focuses heavily on the environment and stability rather than depicting a person or active social interaction, which may suggest a period of internal reflection or preoccupation.",
+    "The schematized nature of the figures (if they were included) suggests the child is relying on established, predictable molds for representation.",
+    "The slight omission of overt emotional signifiers (like faces or actions) may mean their emotions are currently being processed and held internally."
+  ],
+  "createdAt": "2023-10-27T12:00:00Z"
+}

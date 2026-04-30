@@ -1,0 +1,82 @@
+{
+  "drawingTitle": "A Community Grouping with Person, Home, and Garden",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "light blue",
+        "percentage": 0.15,
+        "symbolism": "Represents a sense of clear boundaries and domestic tranquility around the core dwelling."
+      },
+      {
+        "color": "green",
+        "percentage": 0.2,
+        "symbolism": "Indicates connection to natural life and growth; acting as a soft, supportive boundary for the dwelling."
+      },
+      {
+        "color": "light tan/pink",
+        "percentage": 0.3,
+        "symbolism": "Used for the ground and intervening structure, suggesting foundational memories and emotional safety."
+      }
+    ],
+    "colorDiversity": 0.45,
+    "emotionalColorChoices": 0.8,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "The palette is gentle and harmonious, relying on cool domestic tones (blue, green) blended with stable earth tones, suggesting comfort and routine.",
+    "colorPatterns": "The colors are primarily used for large, soft block fills and outlines rather than vigorous scribbles, contributing to a sense of calm completeness.",
+    "unusualColorChoices": "None; the color choices are developmentally appropriate and contribute to the overall peaceful mood of the drawing."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.7,
+    "confidence": 0.6,
+    "creativity": 0.5,
+    "socialBonds": 0.8
+  },
+  "personalityTraits": {
+    "extroversion": 0.55,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.7,
+    "openness": 0.6,
+    "agreeableness": 0.85
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏡",
+      "title": "Sense of solid foundation",
+      "description": "The clear, defined house structure suggests that the child perceives emotional and physical safety in their core environment (home/family). This is a strong sign of feeling secure."
+    },
+    {
+      "emoji": "🤝",
+      "title": "Strong interconnectedness",
+      "description": "The clustering of the person, house, and nature elements together suggests that these parts of their life feel interwoven and supportive of one another."
+    },
+    {
+      "emoji": "🌿",
+      "title": "Comfort in routine patterns",
+      "description": "The generally muted and balanced color scheme, combined with the defined shapes, could indicate that the child is currently feeling settled and comfortable within known routines."
+    },
+    {
+      "emoji": "🙂",
+      "title": "Open and receptive spirit",
+      "description": "The soft, clear line work and the grouping of stable elements suggest a thoughtful and generally approachable emotional state at this time."
+    }
+  ],
+  "recommendations": [
+    "Engage in creative play that involves building or arranging objects (like LEGOs or blocks) to reinforce the sense of solid structure and order.",
+    "Continue narrating stories that gently explore the emotions associated with different places (e.g., 'How does the forest feel today?').",
+    "At dinner, regularly ask open-ended questions about the child's ‘scenery’—what was the prettiest part of their day? What made it feel stable?"
+  ],
+  "concerns": [
+    "The elements—person, house, nature—are grouped tightly together on the page, which may occasionally mean the child is reluctant to differentiate between different emotional spheres.",
+    "The figure is drawn simply (more outlined than filled), which could indicate a subtle tendency to keep emotional details 'minimal' or contained.",
+    "The lack of highly dramatic environmental elements (like exaggerated weather or expansive views) suggests the child might be internally prioritizing stability over excitement."
+  ],
+  "createdAt": "2026-04-30T00:28:34.807075+00:00",
+  "_meta": {
+    "module": "a",
+    "model": "gemma4:e4b",
+    "drawing_id": "drawing_3",
+    "prompt_version": "v1_original",
+    "validation_errors": []
+  }
+}

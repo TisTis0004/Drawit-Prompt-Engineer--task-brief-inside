@@ -1,0 +1,97 @@
+{
+  "drawingTitle": "A House and Garden in the Rain",
+  "overallMood": "neutral",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "White",
+        "percentage": 0.6,
+        "symbolism": "May represent a sense of openness, simplicity, or leaving space for feelings and imagination within the home environment."
+      },
+      {
+        "color": "Gray",
+        "percentage": 0.15,
+        "symbolism": "Used for outlines and cloud-like shapes, may suggest a focus on structure and definition, or a neutral, contemplative aspect to the depicted weather."
+      },
+      {
+        "color": "Brown",
+        "percentage": 0.08,
+        "symbolism": "Used for tree trunks and the fence, may indicate a feeling of groundedness, stability, and security in the surroundings."
+      },
+      {
+        "color": "Purple",
+        "percentage": 0.05,
+        "symbolism": "Used for the house roof, may suggest imagination, individuality, and a desire for something unique or special in the domestic sphere."
+      },
+      {
+        "color": "Blue",
+        "percentage": 0.04,
+        "symbolism": "Used for the swing/well and rain, may symbolize calmness, introspection, or an awareness of external conditions and the atmosphere."
+      }
+    ],
+    "colorDiversity": 0.9,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "The palette mixes earthy tones (brown, green, orange) with imaginative (purple) and contemplative (blue) colors. The significant use of white in the house body, alongside colorful details, could suggest a blend of simplicity and specific bursts of feeling or interest.",
+    "colorPatterns": "Colors are applied within the lines, showing a good level of control for this age. There's a balance between filling areas with color and leaving some significant parts (like the house body and clouds) uncolored, suggesting deliberate choices or perhaps a focus on specific elements.",
+    "unusualColorChoices": "The purple roof is a lovely touch of individuality and creativity, moving beyond traditional color choices for a house."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.6,
+    "confidence": 0.7,
+    "creativity": 0.8,
+    "socialBonds": 0.3
+  },
+  "personalityTraits": {
+    "extroversion": 0.5,
+    "emotionalStability": 0.6,
+    "conscientiousness": 0.7,
+    "openness": 0.8,
+    "agreeableness": 0.5
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏡",
+      "title": "A Thoughtful Home Space",
+      "description": "The clear and detailed drawing of a house, complete with a unique purple roof, may suggest your child has a strong connection to their home environment and enjoys expressing their individuality within it."
+    },
+    {
+      "emoji": "🌧️",
+      "title": "Reflecting on the Weather",
+      "description": "The presence of gentle rain and large cloud-like shapes might indicate your child is observant of their surroundings and could be in a contemplative or slightly introspective mood, processing external conditions."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Joy in Nature's Details",
+      "description": "The inclusion of two trees, one with vibrant leaves and fruits, along with flowers, suggests an appreciation for nature, growth, and the beauty of the outdoor world."
+    },
+    {
+      "emoji": "🛡️",
+      "title": "Seeking Structure and Security",
+      "description": "The clear fence and established ground line may hint that your child values order, boundaries, and a sense of security in their environment."
+    },
+    {
+      "emoji": "👤",
+      "title": "Focus on the Environment",
+      "description": "The absence of a person in this drawing is worth gentle attention; it could simply be a creative choice to focus on a landscape, or it might suggest a current emphasis on the environment rather than self or others."
+    }
+  ],
+  "recommendations": [
+    "Engage your child in conversations about their drawing. Ask them about the house, especially the purple roof – 'What makes this house special?' or 'Who lives here?' to encourage storytelling.",
+    "Since rain is a prominent feature, you might gently open a conversation about different moods or feelings associated with weather. For instance, 'How do you feel on a rainy day?' or 'What fun things can we do when it rains?'",
+    "Continue to provide opportunities for your child to explore their creativity, both through art and imaginative play, encouraging them to add people or characters to their stories and drawings if they wish."
+  ],
+  "concerns": [
+    "The absence of any human figures in the drawing could be an observation worth gentle attention, as it may suggest a current focus on the environment rather than on self or social connections.",
+    "The presence of rain, while a natural part of an environment, could gently indicate a more contemplative or subdued mood.",
+    "The main body of the house being left uncolored, contrasting with the detailed and colored roof and surrounding elements, might suggest a selective focus or an area of less emotional engagement within the 'self' representation of the house."
+  ],
+  "createdAt": "2026-04-30T02:44:49.030503+00:00",
+  "_meta": {
+    "module": "b",
+    "model": "gemini-2.5-flash",
+    "drawing_id": "drawing_1",
+    "prompt_version": "v3_optimized",
+    "validation_errors": []
+  }
+}

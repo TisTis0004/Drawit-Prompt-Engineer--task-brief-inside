@@ -1,0 +1,87 @@
+{
+  "drawingTitle": "A Group of Structured Elements",
+  "overallMood": "neutral",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "Blue",
+        "percentage": 0.3,
+        "symbolism": "The background structure element, suggesting emotional calm, order, and the safe confines of home life."
+      },
+      {
+        "color": "Green",
+        "percentage": 0.25,
+        "symbolism": "Represents growth, vitality, and connection to the natural world, indicating a focus on active, developing energies."
+      },
+      {
+        "color": "Tan/Pink",
+        "percentage": 0.2,
+        "symbolism": "Used for the figure, suggesting a focus on self and comfort, but in a very foundational, simple way."
+      },
+      {
+        "color": "Brown",
+        "percentage": 0.1,
+        "symbolism": "Represents grounding and foundational support (the tree trunk), tethering the drawing to reality."
+      }
+    ],
+    "colorDiversity": 0.6,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "The palette is stable and earthy; the deliberate pairing of calming blues with growth-oriented greens creates a sense of balanced domesticity.",
+    "colorPatterns": "Outlining and block fills are used to delineate clear boundaries between the various elements.",
+    "unusualColorChoices": "No striking or atypical color choices were observed; the palette is appropriately grounded."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.5,
+    "confidence": 0.65,
+    "creativity": 0.4,
+    "socialBonds": 0.7
+  },
+  "personalityTraits": {
+    "extroversion": 0.55,
+    "emotionalStability": 0.6,
+    "conscientiousness": 0.65,
+    "openness": 0.5,
+    "agreeableness": 0.6
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏡",
+      "title": "Focus on Family Stability",
+      "description": "The house is a prominent, clearly structured element, suggesting that the child views home and family stability as a central, reliable anchor in their life."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Connection to Growth and Change",
+      "description": "The presence of the tree indicates an awareness of natural cycles and growth, showing a healthy curiosity about development."
+    },
+    {
+      "emoji": "🧍",
+      "title": "Self-Image is Functional",
+      "description": "The self-figure is rendered simply, which suggests that the child's self-concept is currently defined by its core function and stability, rather than complex emotional detail."
+    },
+    {
+      "emoji": "⚖️",
+      "title": "Sensation of Balance",
+      "description": "By placing the self, home, and nature together, the child is presenting an emotional landscape where multiple important areas—structure, self, and environment—feel balanced."
+    }
+  ],
+  "recommendations": [
+    "Engage in structured play that involves building, such as with blocks or Legos, to reinforce the theme of stability and structure in a fun, collaborative way.",
+    "When discussing nature or external events, acknowledge feelings alongside physical objects (e.g., 'The tree is reaching up, and sometimes when we feel happy, we feel like we are reaching up too').",
+    "Encourage drawing activities where the child focuses on the *action* or *feeling* of a body part, rather than just the static figure, to help elaborate the self-concept."
+  ],
+  "concerns": [
+    "The human figure is rendered in a very schematic manner compared to the detailed environment elements (house/tree), which may suggest a functional detachment from emotional detailing.",
+    "The representation prioritizes external, stable structures (H, T) over internal, intricate feelings, which is normal at this age but worth noting.",
+    "The placement of the various elements—while cohesive—does not show much interaction or emotional spillover between the figures (self/house/tree)."
+  ],
+  "createdAt": "2026-04-29T23:11:50.205301+00:00",
+  "_meta": {
+    "module": "a",
+    "model": "gemma4:e4b",
+    "drawing_id": "drawing_2",
+    "prompt_version": "v1_original",
+    "validation_errors": []
+  }
+}

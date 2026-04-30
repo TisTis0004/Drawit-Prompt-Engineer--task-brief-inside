@@ -1,0 +1,79 @@
+{
+  "drawingTitle": "A Structured Outdoor Setting",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "Graphite/Black",
+        "percentage": 0.4,
+        "symbolism": "The foundation and defining lines of the child's current focus/logic."
+      },
+      {
+        "color": "Purple/Lavender",
+        "percentage": 0.15,
+        "symbolism": "A sense of calm imagination and imaginative play areas."
+      },
+      {
+        "color": "Blue",
+        "percentage": 0.1,
+        "symbolism": "A bright center of focus, like inner peace or self-contained happiness."
+      },
+      {
+        "color": "Red/Pink",
+        "percentage": 0.1,
+        "symbolism": "Warmth, vitality, and the joy of simple growth."
+      }
+    ],
+    "colorDiversity": 0.6,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "The colors are thoughtfully placed to define boundaries and create distinct scenes, suggesting an understanding of different 'moods' or areas.",
+    "colorPatterns": "The colors are used sparingly but purposefully, emphasizing specific areas of interest like the sun or flowers.",
+    "unusualColorChoices": "There are no unusual or jarring color choices; the palette is cohesive and grounded."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.5,
+    "confidence": 0.7,
+    "creativity": 0.6,
+    "socialBonds": 0.5
+  },
+  "personalityTraits": {
+    "extroversion": 0.4,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.8,
+    "openness": 0.6,
+    "agreeableness": 0.7
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏠",
+      "title": "Feeling safe and grounded",
+      "description": "The clear, defined structure of the house may suggest the child currently feels very secure and stable in their immediate environment."
+    },
+    {
+      "emoji": "🚶",
+      "title": "Ready for a new chapter",
+      "description": "The visible path leading out from the structure could indicate a sense of readiness for transition, learning new things, or exploring possibilities."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Appreciating surroundings",
+      "description": "The attention paid to environmental details, like the flowers and clouds, suggests the child is highly observant of the world around them."
+    },
+    {
+      "emoji": "🧠",
+      "title": "Inner world focus",
+      "description": "The detailed composition of the setting shows a rich inner world of thought that is currently more visible than external, interactive feelings."
+    }
+  ],
+  "recommendations": [
+    "Instead of talking about 'feelings,' try playing location-based games (e.g., 'walk us through your imaginary backyard') to help them narrate their world.",
+    "Integrate movement into play; activities that involve physical exploration (nature walks, backyard building) can help connect their inner visualization to their physical environment.",
+    "When winding down, engage in joint storytelling where the focus is on the journey or the environment, drawing on the wonderful detail they provided in their drawing."
+  ],
+  "concerns": [
+    "The drawing focuses heavily on the environment (setting) rather than people, which is worth gentle attention regarding perceived social interaction.",
+    "The strong emphasis on structure and orderliness could mean the child is currently finding comfort in routine and predictable boundaries."
+  ],
+  "createdAt": "2024-05-23T14:30:00Z"
+}

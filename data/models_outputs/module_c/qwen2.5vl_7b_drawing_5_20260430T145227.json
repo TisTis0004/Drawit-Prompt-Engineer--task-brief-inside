@@ -1,0 +1,82 @@
+{
+  "drawingTitle": "صورة السعادة العائلية",
+  "overallMood": "اصحابية",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "أخضر",
+        "percentage": 0.5,
+        "symbolism": "الحياة السعيدة والطبيعة الخضراء"
+      },
+      {
+        "color": "أصفر",
+        "percentage": 0.2,
+        "symbolism": "السعادة والمتعة"
+      },
+      {
+        "color": "أزرق",
+        "percentage": 0.2,
+        "symbolism": "السلام والأمان"
+      },
+      {
+        "color": "وردي",
+        "percentage": 0.1,
+        "symbolism": "الود والحب"
+      }
+    ],
+    "colorDiversity": 0.8,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.85,
+    "colorSymbolism": "يعكس حلم الحياة العامة والصداقة الجميلة والمتعة",
+    "colorPatterns": "لا يوجد تكرار في استخدام الألوان بشكل منتظم",
+    "unusualColorChoices": "يستخدم الألوان بشكل منطقي وموارد للتعبير عن الحكمة والسعادة"
+  },
+  "emotionalIndicators": {
+    "happiness": 0.9,
+    "confidence": 0.8,
+    "creativity": 0.8,
+    "socialBonds": 0.9
+  },
+  "personalityTraits": {
+    "extroversion": 0.7,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.5,
+    "openness": 0.6,
+    "agreeableness": 0.85
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "السعادة العائلية",
+      "description": "قد يشير إلى أن هناك أسرة سعيدة وودية في الرسمة."
+    },
+    {
+      "emoji": "🏡",
+      "title": "منزل المثالية",
+      "description": "يمكن أن يعكس مكاناً آمنًا وإنسانيًا في صلب الأسرة."
+    },
+    {
+      "emoji": "🌸",
+      "title": "الحب والود",
+      "description": "يمكن أن يستحق اهتماماً لطيفًا وفتح حوار للتحدث عن مشاعر الحب والود."
+    }
+  ],
+  "recommendations": [
+    "يمكن رصد الجاذبية الكبيرة للطفل للمنزل والطبيعة الحضيفة.",
+    "من خلال استخدام الألوان المناسبة, يذكرني هذا الرسم بسعادة الأسرة.",
+    "لا تجده أبداً غير سعيد في حياتك، ترجى استماع معرفة المزيد من روعة عائلتك."
+  ],
+  "concerns": [
+    ""
+  ],
+  "createdAt": "2023-10-15T14:30:00Z",
+  "_meta": {
+    "module": "c",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_5",
+    "prompt_version": "v4_arabic",
+    "validation_errors": [
+      "overallMood: Value error, overallMood must be one of {'ايجابي', 'neutral', 'طبيعي', 'concerning', 'يستدعي الانتباه', 'positive'}, got 'اصحابية'"
+    ]
+  }
+}

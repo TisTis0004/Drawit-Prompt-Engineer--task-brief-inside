@@ -1,0 +1,72 @@
+{
+  "drawingTitle": "A Bright and Harmonious Landscape with a Welcoming Home",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "green",
+        "percentage": 0.35,
+        "symbolism": "Used for the lush landscape and trees, suggesting growth, vitality, and a sense of emotional balance."
+      },
+      {
+        "color": "orange",
+        "percentage": 0.2,
+        "symbolism": "The primary color of the home, indicating warmth, hospitality, and a welcoming family atmosphere."
+      },
+      {
+        "color": "blue",
+        "percentage": 0.15,
+        "symbolism": "Reflected in the sky and rainbow, representing tranquility, peace, and a clear emotional state."
+      },
+      {
+        "color": "yellow",
+        "percentage": 0.1,
+        "symbolism": "Used in the sun and rainbow, symbolizing high energy, joy, and a bright outlook."
+      }
+    ],
+    "colorDiversity": 0.9,
+    "emotionalColorChoices": 0.9,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "A vibrant and cheerful palette that reflects a strong sense of security and happiness.",
+    "colorPatterns": "Solid, confident fills with detailed textures in the foliage and house structure.",
+    "unusualColorChoices": "The rainbow is a beautiful, age-appropriate addition that emphasizes a sense of wonder and hope."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.9,
+    "confidence": 0.8,
+    "creativity": 0.8,
+    "socialBonds": 0.8
+  },
+  "personalityTraits": {
+    "extroversion": 0.7,
+    "emotionalStability": 0.9,
+    "conscientiousness": 0.8,
+    "openness": 0.7,
+    "agreeableness": 0.8
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "Positive Self-Concept",
+      "description": "The smiling figure suggests a generally positive and happy self-perception, appearing well-integrated and comfortable within their environment."
+    },
+    {
+      "emoji": "🏡",
+      "title": "Sense of Security & Warmth",
+      "description": "The well-proportioned house with multiple windows and a prominent door indicates feelings of security and an inviting home life."
+    },
+    {
+      "emoji": "🌈",
+      "title": "Optimism and Hope",
+      "description": "The vibrant rainbow and birds project a sense of joy and hope for the future, reflecting a very healthy emotional outlook."
+    }
+  ],
+  "recommendations": [
+    "Continue encouraging creative expression through art activities, providing a variety of materials and opportunities for exploration.",
+    "Celebrate each artwork to boost the child's confidence and joy in creating, emphasizing their unique ideas and artistic efforts."
+  ],
+  "concerns": [
+    "No immediate concerns are apparent from this drawing. The overall impression is positive and well-adjusted."
+  ],
+  "createdAt": "2026-04-29T10:32:00Z"
+}

@@ -1,0 +1,78 @@
+{
+  "drawingTitle": "A House under a Storm",
+  "overallMood": "nuanced",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "brown",
+        "percentage": 0.2,
+        "symbolism": "ground or wood"
+      },
+      {
+        "color": "purple",
+        "percentage": 0.3,
+        "symbolism": "sky or sky with clouds"
+      },
+      {
+        "color": "brown",
+        "percentage": 0.2,
+        "symbolism": "ground or wood"
+      }
+    ],
+    "colorDiversity": 0.4,
+    "emotionalColorChoices": 0.6,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "The colors suggest a typical children's palette for nature or outdoor scenes.",
+    "colorPatterns": "The drawing uses block fills with some scribbling, but overall the coloring is not particularly detailed or varied.",
+    "unusualColorChoices": "The choice of purple for the roof with no other shade variations could indicate a focus on one strong color choice."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.4,
+    "confidence": 0.3,
+    "creativity": 0.6,
+    "socialBonds": 0.5
+  },
+  "personalityTraits": {
+    "extroversion": 0.2,
+    "emotionalStability": 0.3,
+    "conscientiousness": 0.5,
+    "openness": 0.4,
+    "agreeableness": 0.6
+  },
+  "keyInsights": [
+    {
+      "emoji": "🌦️",
+      "title": "Rainy Mood",
+      "description": "The rain depicted in the sky suggests the child may be navigating through an emotional storm or seeing the world as unpredictable and challenging."
+    },
+    {
+      "emoji": "😭",
+      "title": "Sense of Loss",
+      "description": "The empty house may hint at the child feeling a loss or longing for a sense of home and security."
+    },
+    {
+      "emoji": "🎨",
+      "title": "Imagination Visible",
+      "description": "The combination of the house, tree, and landscape shows a vivid imagination at work, though the execution suggests the child might need more support in expressing their feelings fully."
+    }
+  ],
+  "recommendations": [
+    "Continue to discuss the child's thoughts and feelings during routine quiet times together to better understand their emotions.",
+    "Encourage outdoor time and activities to help deal with the expressed feelings of storminess.\n",
+    "Provide activities and environments that offer comfort and security; physical comfort can often affect emotional state."
+  ],
+  "concerns": [
+    "The rain and stormy sky might indicate temporary emotional states of sadness or worry which could benefit from attention.",
+    "The empty house may point to an underlying feeling of loneliness or loss that is worth gentle attention."
+  ],
+  "createdAt": "2023-10-10T10:00:00Z",
+  "_meta": {
+    "module": "a",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_1",
+    "prompt_version": "v1_original",
+    "validation_errors": [
+      "overallMood: Value error, overallMood must be one of {'يستدعي الانتباه', 'ايجابي', 'neutral', 'concerning', 'positive', 'طبيعي'}, got 'nuanced'"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "drawingTitle": "Family scene with house, tree, and person",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "blue",
+        "percentage": 0.25,
+        "symbolism": "Represents a calm, foundational structure that houses the family/self."
+      },
+      {
+        "color": "purple",
+        "percentage": 0.2,
+        "symbolism": "Adds a layer of artistic flair and distinct boundary to the main structure."
+      },
+      {
+        "color": "brown",
+        "percentage": 0.15,
+        "symbolism": "Grounded and nurturing, suggesting stability in the natural environment."
+      },
+      {
+        "color": "red",
+        "percentage": 0.15,
+        "symbolism": "High energy and visible self-possession, placing the self clearly within the scene."
+      }
+    ],
+    "colorDiversity": 0.5,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "The palette is diverse and bright, showing emotional comfort with various hues rather than limiting oneself to basic primary colors.",
+    "colorPatterns": "The colors are used to delineate distinct objects (house, tree, clothes) rather than blending or creating wash effects.",
+    "unusualColorChoices": "The use of purple/blue combination on the house is creatively unique and stands out as a fun artistic choice."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.7,
+    "confidence": 0.6,
+    "creativity": 0.65,
+    "socialBonds": 0.55
+  },
+  "personalityTraits": {
+    "extroversion": 0.6,
+    "emotionalStability": 0.65,
+    "conscientiousness": 0.6,
+    "openness": 0.7,
+    "agreeableness": 0.6
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏠",
+      "title": "Home and structure feel secure",
+      "description": "The drawing places the house and the family together, suggesting that physical or emotional stability is a major source of comfort for you."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Rooted in nature's strength",
+      "description": "The tree is prominent and well-drawn, which may suggest that connecting with nature's steadiness is an important comfort point."
+    },
+    {
+      "emoji": "👦",
+      "title": "A clear, visible self",
+      "description": "The person stands clearly and centrally, which could indicate a sense of self-assurance and comfort in one's own space."
+    },
+    {
+      "emoji": "🤝",
+      "title": "Balanced social connection",
+      "description": "The composition includes components of self (person), family (house), and environment (tree), suggesting a healthy balance in relationships."
+    },
+    {
+      "emoji": "🎈",
+      "title": "Joyful self-expression",
+      "description": "The use of bright and varied colors, alongside a general depiction of a pleasant scene, points to a generally positive emotional state."
+    },
+    {
+      "emoji": "☀️",
+      "title": "Openness to surroundings",
+      "description": "The child is engaging with the entire scene and has a clear sense of 'here' and 'there,' suggesting curiosity about the world."
+    }
+  ],
+  "recommendations": [
+    "When talking about the day, ask about things that felt 'stable' or 'grounding.'",
+    "Spend time together drawing scenes where you can make sure to include colors that evoke gentle calm.",
+    "Encourage storytelling about the people and places in your life to explore deeper relationships."
+  ],
+  "concerns": [
+    "The figures and objects are drawn somewhat flatly, which may indicate that the focus is currently more on the basic structural elements than on dynamic detail."
+  ],
+  "createdAt": "2026-04-30T03:14:01.404787+00:00",
+  "_meta": {
+    "module": "b",
+    "model": "gemma4:e4b",
+    "drawing_id": "drawing_4_paper",
+    "prompt_version": "v3_optimized",
+    "validation_errors": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "drawingTitle": "drawing of house and boy",
+  "overallMood": "ما يرضي",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "الأزرق",
+        "percentage": 0.25,
+        "symbolism": "الماء والسلام"
+      },
+      {
+        "color": "الأصفر",
+        "percentage": 0.2,
+        "symbolism": "العديد والتفاؤل"
+      },
+      {
+        "color": "الوردي",
+        "percentage": 0.2,
+        "symbolism": "الحنان والراحة"
+      },
+      {
+        "color": "البيج",
+        "percentage": 0.15,
+        "symbolism": "الجاذبية والسلامة"
+      },
+      {
+        "color": "الأحمر",
+        "percentage": 0.1,
+        "symbolism": "السعادة والقوة"
+      },
+      {
+        "color": "الأخضر",
+        "percentage": 0.1,
+        "symbolism": "الازدهار والحياة"
+      }
+    ],
+    "colorDiversity": 0.85,
+    "emotionalColorChoices": 0.9,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "يمثل الرسم دقة ألوانها مع الألوان المناسبة للأطفال والألوان التي تعكس السعادة والسلام وتحفز الابتكار",
+    "colorPatterns": "أظهرت استخدام الألوان في مزجها الطبيعي، مما يدل على الابتكار والتفاؤل.",
+    "unusualColorChoices": ""
+  },
+  "emotionalIndicators": {
+    "happiness": 0.85,
+    "confidence": 0.7,
+    "creativity": 0.9,
+    "socialBonds": 0.6
+  },
+  "personalityTraits": {
+    "extroversion": 0.75,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.65,
+    "openness": 0.7,
+    "agreeableness": 0.75
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "السعادة الجسدية والنفسية",
+      "description": "قد يشير هذا الرسم إلى إحساس عميق بالسعادة والهدوء في الألفة مع البيئة."
+    },
+    {
+      "emoji": "🏡",
+      "title": "منزل آمن",
+      "description": "يمكن أن يكون منزل جميل في الرسم بمثابة مجال آمن وراحة للفرد."
+    }
+  ],
+  "recommendations": [
+    "شجِّعي طفلك على التحدث عن ما رأى في الرسم ومتى يشعر بهذه العائلة الآمنة وراحة الألفة.",
+    "تعزيز التأكيد على قيم الأسرة مع الرسم من خلال إبراز الأوراق والألياف التي تم ترسيمها للإشارة إلى العائلة العائلية."
+  ],
+  "concerns": [
+    "قد يشير إلى غياب الجاذبية في الحساب التفاؤل في العائلة إذا لم يكن هناك تفاعل اجتماعي واضح."
+  ],
+  "createdAt": "2023-10-05T16:15:00Z",
+  "_meta": {
+    "module": "c",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_2",
+    "prompt_version": "v4_arabic",
+    "validation_errors": [
+      "overallMood: Value error, overallMood must be one of {'ايجابي', 'neutral', 'طبيعي', 'concerning', 'يستدعي الانتباه', 'positive'}, got 'ما يرضي'"
+    ]
+  }
+}

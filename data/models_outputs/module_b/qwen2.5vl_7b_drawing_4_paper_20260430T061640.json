@@ -1,0 +1,85 @@
+{
+  "drawingTitle": "Outdoor Scenes with Person",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "red",
+        "percentage": 0.22,
+        "symbolism": "happiness, love"
+      },
+      {
+        "color": "blue",
+        "percentage": 0.16,
+        "symbolism": "calmness, trust"
+      },
+      {
+        "color": "brown",
+        "percentage": 0.14,
+        "symbolism": "security, grounding"
+      },
+      {
+        "color": "purple",
+        "percentage": 0.12,
+        "symbolism": "creativity, imagination"
+      },
+      {
+        "color": "green",
+        "percentage": 0.11,
+        "symbolism": "growth, renewal"
+      }
+    ],
+    "colorDiversity": 0.78,
+    "emotionalColorChoices": 0.75,
+    "ageAppropriateColorUse": 0.85,
+    "colorSymbolism": "A diverse, positive palette",
+    "colorPatterns": "Simple gradients and solid fills",
+    "unusualColorChoices": "None observed"
+  },
+  "emotionalIndicators": {
+    "happiness": 0.8,
+    "confidence": 0.6,
+    "creativity": 0.5,
+    "socialBonds": 0.4
+  },
+  "personalityTraits": {
+    "extroversion": 0.65,
+    "emotionalStability": 0.75,
+    "conscientiousness": 0.45,
+    "openness": 0.5,
+    "agreeableness": 0.55
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "Smiling Face",
+      "description": "The child draws a bright smile, suggesting a happy and confident mood."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Lush Tree",
+      "description": "The tree is richly colored and well-detailed, hinting at a sense of imagination and creativity."
+    },
+    {
+      "emoji": "🏠",
+      "title": "Safe House",
+      "description": "The house is colored in calm blues and purples, with simple windows suggesting a safe and stable environment."
+    }
+  ],
+  "recommendations": [
+    "Discuss the smile in your drawing, it could be reflecting confidence and happiness in your day.",
+    "Keep exploring the colors. Notice how the bright greens in the tree show life growing around your home."
+  ],
+  "concerns": [
+    "No arms on the person, which could suggest a moment of distraction or preoccupation, or simply part of your current artistic style.",
+    "No visible interactions or bonds in your drawing, which could indicate that finding ways to connect socially with peers might be enjoyable."
+  ],
+  "createdAt": "2026-04-30T03:16:40.196337+00:00",
+  "_meta": {
+    "module": "b",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_4_paper",
+    "prompt_version": "v3_optimized",
+    "validation_errors": []
+  }
+}

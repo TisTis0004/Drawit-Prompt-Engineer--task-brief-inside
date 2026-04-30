@@ -1,0 +1,100 @@
+{
+  "drawingTitle": "A Family Portrait",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "red",
+        "percentage": 0.15,
+        "symbolism": "joy, love"
+      },
+      {
+        "color": "blue",
+        "percentage": 0.2,
+        "symbolism": "calmness, stability"
+      },
+      {
+        "color": "purple",
+        "percentage": 0.1,
+        "symbolism": "creativity, imagination"
+      },
+      {
+        "color": "dark blue",
+        "percentage": 0.1,
+        "symbolism": "open skies, calm waters"
+      },
+      {
+        "color": "brown",
+        "percentage": 0.2,
+        "symbolism": "earth, stability, natural harmony"
+      },
+      {
+        "color": "green",
+        "percentage": 0.15,
+        "symbolism": "grass, life, growth"
+      },
+      {
+        "color": "black",
+        "percentage": 0.1,
+        "symbolism": "ground, shadows, contrast"
+      }
+    ],
+    "colorDiversity": 0.75,
+    "emotionalColorChoices": 0.75,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "The child is using a variety of warm and cool colors to create a balanced and inviting scene.",
+    "colorPatterns": "The child used solid blocks for the main elements like the house and the tree, with some fine line details such as the windows and fence lines.",
+    "unusualColorChoices": "No unusual color choices were made; all selections are age-appropriate and contextually fitting."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.9,
+    "confidence": 0.8,
+    "creativity": 0.8,
+    "socialBonds": 0.7
+  },
+  "personalityTraits": {
+    "extroversion": 0.7,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.7,
+    "openness": 0.8,
+    "agreeableness": 0.7
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "Joyful Scene",
+      "description": "The child appears happy and content, depicted through the bright colors and simple figures."
+    },
+    {
+      "emoji": "🏠",
+      "title": "Family Home",
+      "description": "The presence of the house and tree may indicate an emphasis on stability and domestic life, suggesting the child feels safe and nurtured."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Natural Environment",
+      "description": "The large tree could symbolize a strong connection to nature, showing a need for stability and growth."
+    },
+    {
+      "emoji": "👦",
+      "title": "Child's Perspective",
+      "description": "The perspective from the child's point of view, likely a self-portrait, conveys a sense of confidence and a desire to capture their immediate surroundings."
+    }
+  ],
+  "recommendations": [
+    "Continue encouraging free drawing time to allow the child's imagination to flourish.",
+    "Use open-ended questions to discuss what the child drew, encouraging their unique thoughts and feelings to come out."
+  ],
+  "concerns": [
+    "No significant concerns observed. The child is portraying a positive and familiar environment.",
+    "The simplicity of figures may indicate a need for more confidence in drawing skills or a preoccupation with external factors."
+  ],
+  "createdAt": "2026-04-30T00:55:06.527185+00:00",
+  "_meta": {
+    "module": "a",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_4_paper",
+    "prompt_version": "v1_original",
+    "validation_errors": []
+  }
+}

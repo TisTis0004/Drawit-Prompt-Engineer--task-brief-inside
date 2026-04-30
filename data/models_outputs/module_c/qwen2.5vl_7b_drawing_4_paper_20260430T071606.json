@@ -1,0 +1,99 @@
+{
+  "drawingTitle": "منزل وشجرة ورجل%",
+  "overallMood": "natural",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "أزرق",
+        "percentage": 0.17,
+        "symbolism": "هدوء ونظام"
+      },
+      {
+        "color": "أصفر",
+        "percentage": 0.25,
+        "symbolism": "شمسية وتفاؤل"
+      },
+      {
+        "color": "أخضر",
+        "percentage": 0.2,
+        "symbolism": "نمو وحيوية"
+      },
+      {
+        "color": "الأحمر",
+        "percentage": 0.15,
+        "symbolism": "إثارة وحب للاستكشاف"
+      },
+      {
+        "color": "بنفسجي",
+        "percentage": 0.13,
+        "symbolism": "خيال ورائع"
+      },
+      {
+        "color": "أسود",
+        "percentage": 0.11,
+        "symbolism": "كامل وثابت"
+      }
+    ],
+    "colorDiversity": 0.75,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.85,
+    "colorSymbolism": "يرى الرسمة مجموعة متنوعة من الألوان والتي تعكس تواجد العديد من الشعور الإيجابي والغموض.",
+    "colorPatterns": "يتم استخدام الألوان بطرق مختلفة لخلق ديكور لائق ونضج مزمن.",
+    "unusualColorChoices": "يستخدم الألوان الجذابة والجذابة في الرسمة، مما يشير إلى تطور عقلي متوازن."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.8,
+    "confidence": 0.75,
+    "creativity": 0.8,
+    "socialBonds": 0.75
+  },
+  "personalityTraits": {
+    "extroversion": 0.65,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.8,
+    "openness": 0.75,
+    "agreeableness": 0.85
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "ابتسامة سعيدة",
+      "description": "يمكن أن يعكس هذا الجانب من الرسمة اهتماماً لطيفاً ومتابعة دافئة ولطيفة مع طفلك."
+    },
+    {
+      "emoji": "🏠",
+      "title": "منزل جميل",
+      "description": "يمكن أن يعكس هذا الشيء يحتاج طفلك للتعبير عنه — فتح حوار هادئ قد يُفيد."
+    },
+    {
+      "emoji": "🌳",
+      "title": "شجرة صداقة",
+      "description": "يمكن أن يعكس هذا الشيء يحتاج طفلك للتعبير عنه — فتح حوار هادئ قد يُفيد."
+    },
+    {
+      "emoji": "👨‍👦‍👦",
+      "title": "علاقة شخصية قوية",
+      "description": "يمكن أن يعكس هذا الشيء يحتاج طفلك للتعبير عنه — فتح حوار هادئ قد يُفيد."
+    }
+  ],
+  "recommendations": [
+    "يبدو أن الروم كان لديه إحساس بسعادة واستقرار نفسي، احتفلوا معه باليوم الجديد.",
+    "شجعون دعم ابتسامة أمانه لترسيخ التفاؤل.",
+    "لا تغفلوا عن تقديم القدرة للأطفال على التعبير عن أنفسهم.",
+    "املاء الالقاب على الرسمات الجميلة لتعزيز الثقة النفسية.",
+    "تشجيع التواصل العاطفي مع طفلكم من خلال إقامة أنشطة ترفيهية"
+  ],
+  "concerns": [
+    "تلاقي الألوان الجدّية التي قد تظهر تقلبات مشاعر طفلك"
+  ],
+  "createdAt": "2023-10-05T14:30:00Z",
+  "_meta": {
+    "module": "c",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_4_paper",
+    "prompt_version": "v4_arabic",
+    "validation_errors": [
+      "overallMood: Value error, overallMood must be one of {'يستدعي الانتباه', 'ايجابي', 'neutral', 'concerning', 'positive', 'طبيعي'}, got 'natural'"
+    ]
+  }
+}

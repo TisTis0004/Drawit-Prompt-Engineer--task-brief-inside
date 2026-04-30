@@ -1,0 +1,78 @@
+{
+  "drawingTitle": "Child with House and Tree",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "blue",
+        "percentage": 0.3,
+        "symbolism": "calmness, tranquility"
+      },
+      {
+        "color": "brown",
+        "percentage": 0.15,
+        "symbolism": "earthiness, stability"
+      },
+      {
+        "color": "green",
+        "percentage": 0.1,
+        "symbolism": "growth, nature"
+      },
+      {
+        "color": "yellow",
+        "percentage": 0.2,
+        "symbolism": "happiness, optimism"
+      },
+      {
+        "color": "pink",
+        "percentage": 0.05,
+        "symbolism": "joy, love"
+      }
+    ],
+    "colorDiversity": 0.65,
+    "emotionalColorChoices": 0.7,
+    "ageAppropriateColorUse": 0.85,
+    "colorSymbolism": "The drawing uses a mix of warm and cool colors, evoking an idyllic and serene atmosphere.",
+    "colorPatterns": "The color use is vibrant yet balanced, suggesting confidence and a positive outlook.",
+    "unusualColorChoices": "The choice of bright blue for the sky is not typical for children in Lower Schematic, but it may be indicative of the child's vivid imagination and perhaps their mood."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.8,
+    "confidence": 0.7,
+    "creativity": 0.6,
+    "socialBonds": 0.4
+  },
+  "personalityTraits": {
+    "extroversion": 0.7,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.7,
+    "openness": 0.6,
+    "agreeableness": 0.5
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "Happiness Indicators",
+      "description": "The use of bright yellow and pink, and the smiley face, suggest a joyful and positive mood."
+    },
+    {
+      "emoji": "✅",
+      "title": "Confidence",
+      "description": "The overall neatness of the drawing and clear lines may indicate a feeling of confidence and self-assurance."
+    },
+    {
+      "emoji": "🎨",
+      "title": "Creativity",
+      "description": "The imaginative use of colors and the inclusion of both a person and a detailed house and tree create a vivid and creative story."
+    }
+  ],
+  "recommendations": [
+    "Admire your child's imaginative use of colors and the detailed representation of the house and tree.",
+    "Encourage more detailed expressions of emotions in drawings. The use of a blue sky already hints at their optimism, so this can be discussed positively.",
+    "Praise your child's neatness and clear lines. Keep emphasizing the importance of finishing and coloring details."
+  ],
+  "concerns": [
+    "The child's drawing title \"Child with House and Tree\" sounds like a neutral observation, but it doesn't capture the joyous mood depicted. Suggest using more descriptive titles."
+  ],
+  "createdAt": "2023-11-12T00:00:00Z"
+}

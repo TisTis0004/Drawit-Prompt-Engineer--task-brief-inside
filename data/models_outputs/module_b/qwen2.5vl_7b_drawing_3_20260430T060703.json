@@ -1,0 +1,87 @@
+{
+  "drawingTitle": "Homes and People Drawing",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "blue",
+        "percentage": 0.25,
+        "symbolism": "calm and soothing"
+      },
+      {
+        "color": "brown",
+        "percentage": 0.15,
+        "symbolism": "grounding and stable"
+      },
+      {
+        "color": "green",
+        "percentage": 0.2,
+        "symbolism": "growth and life"
+      },
+      {
+        "color": "orange",
+        "percentage": 0.05,
+        "symbolism": "warm and welcoming"
+      },
+      {
+        "color": "red",
+        "percentage": 0.1,
+        "symbolism": "bold and energetic"
+      }
+    ],
+    "colorDiversity": 0.75,
+    "emotionalColorChoices": 0.85,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "The child skillfully used blue for calmness and green for growth, indicating a mature understanding of color meanings.",
+    "colorPatterns": "The child used consistent patterns for similar elements (shades of blue for windows, red for a barn's roof), showing attention to detail and pattern recognition.",
+    "unusualColorChoices": "Not applicable here, as all color choices were age-appropriate and meaningful."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.7,
+    "confidence": 0.6,
+    "creativity": 0.5,
+    "socialBonds": 0.8
+  },
+  "personalityTraits": {
+    "extroversion": 0.7,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.6,
+    "openness": 0.6,
+    "agreeableness": 0.5
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "Positive Home Scene",
+      "description": "The drawing reflects a happy and stable home environment with multiple happy humans and cozy houses, suggesting a sense of belonging and warmth."
+    },
+    {
+      "emoji": "﹢﹏﹢",
+      "title": "Friendly Social Bonds",
+      "description": "The presence of happy people and their proximity to each other indicates strong social connections, which can be a positive sign of emotional comfort and integration."
+    },
+    {
+      "emoji": "🎨",
+      "title": "A Bit of Creativity",
+      "description": "A few interesting details like the different window designs can show a level of creativity, which is a good sign of problem-solving abilities and imaginative thinking."
+    }
+  ],
+  "recommendations": [
+    "Discuss your child's drawing to encourage more stories and observations. This can further enhance their creativity.",
+    "Continue to read books with a strong and warm family motif to help them visualize happy homes and relationships."
+  ],
+  "concerns": [
+    "No significant concerns detected from this drawing.",
+    "Consider discussing the child's day if there have been recent changes in mood or environment.",
+    "Further inquiry about any new friends or family dynamics, if present.",
+    "Watch for any changes in their behavior or mood, especially if they show less enthusiasm for drawing or storytelling."
+  ],
+  "createdAt": "2026-04-30T03:07:03.580217+00:00",
+  "_meta": {
+    "module": "b",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_3",
+    "prompt_version": "v3_optimized",
+    "validation_errors": []
+  }
+}

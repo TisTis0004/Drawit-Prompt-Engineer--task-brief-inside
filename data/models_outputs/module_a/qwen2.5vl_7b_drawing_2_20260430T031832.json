@@ -1,0 +1,14 @@
+{
+  "error": "Error code: 500 - {'error': {'message': 'an error was encountered while running the model: GGML_ASSERT(a->ne[2] * 4 == b->ne[0]) failed', 'type': 'api_error', 'param': None, 'code': None}}",
+  "model": "qwen2.5vl:7b",
+  "drawing": "drawing_2",
+  "_meta": {
+    "module": "a",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_2",
+    "prompt_version": "v1_original",
+    "validation_errors": [
+      "Error code: 500 - {'error': {'message': 'an error was encountered while running the model: GGML_ASSERT(a->ne[2] * 4 == b->ne[0]) failed', 'type': 'api_error', 'param': None, 'code': None}}"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "drawingTitle": "A House with a Purple Roof, Trees, and Rain",
+  "overallMood": "neutral",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "Purple",
+        "percentage": 0.15,
+        "symbolism": "Used for the house roof, this strong color may suggest imagination, individuality, and perhaps a rich inner world associated with home or personal thoughts."
+      },
+      {
+        "color": "Brown",
+        "percentage": 0.1,
+        "symbolism": "Appearing in the tree trunks, fence, and window frames, brown indicates a sense of stability, groundedness, and a connection to the natural world and practical structures."
+      },
+      {
+        "color": "Light Blue",
+        "percentage": 0.08,
+        "symbolism": "Used for the rain, light blue can symbolize calmness, introspection, or a slightly pensive mood. It adds a reflective quality to the environment."
+      },
+      {
+        "color": "Red/Pink",
+        "percentage": 0.07,
+        "symbolism": "Seen as 'fruits' or leaves on a tree and on the chimney, these colors bring a sense of vitality, energy, and warmth, suggesting life and growth even amidst rain."
+      },
+      {
+        "color": "Grey",
+        "percentage": 0.05,
+        "symbolism": "Used for the clouds and window details, grey often represents neutrality or a muted aspect of the environment, suggesting a cloudy day."
+      }
+    ],
+    "colorDiversity": 0.8,
+    "emotionalColorChoices": 0.6,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "The palette is diverse, mixing vibrant hues like purple and red with more subdued tones of blue and grey. This suggests a nuanced emotional landscape, where creativity and warmth coexist with moments of introspection or quietness.",
+    "colorPatterns": "Colors are largely applied as block fills within clear outlines. The purple roof shows directional shading, while clouds are outlined and rain consists of light, short dashes, indicating different levels of detail and emphasis.",
+    "unusualColorChoices": "The choice of purple for the house roof is a distinctive and imaginative touch, setting it apart from more traditional roof colors and suggesting a unique perspective."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.5,
+    "confidence": 0.7,
+    "creativity": 0.8,
+    "socialBonds": 0.3
+  },
+  "personalityTraits": {
+    "extroversion": 0.3,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.8,
+    "openness": 0.7,
+    "agreeableness": 0.7
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏡",
+      "title": "Thoughtful Home Focus",
+      "description": "The detailed and well-structured house, complete with a unique purple roof, suggests your child has a strong sense of personal space and perhaps a rich inner world associated with home."
+    },
+    {
+      "emoji": "🌧️",
+      "title": "Reflective Environment",
+      "description": "The inclusion of clouds and gentle rain, alongside vibrant flowers and red 'fruits,' indicates your child is attuned to their surroundings and may experience a range of emotions in a thoughtful, observant way."
+    },
+    {
+      "emoji": "🎨",
+      "title": "Creative Expression",
+      "description": "The use of a varied color palette, including the striking purple roof and pops of red and yellow, highlights your child's imaginative spirit and a desire to express themselves uniquely."
+    },
+    {
+      "emoji": "🚧",
+      "title": "Sense of Structure",
+      "description": "The clear boundaries of the house and the detailed fence suggest that your child appreciates order and a sense of contained, defined spaces in their world, which can be a source of comfort."
+    },
+    {
+      "emoji": "🧍‍♀️",
+      "title": "Focus on Self/Setting",
+      "description": "The absence of a person in this drawing is a subtle point, suggesting a current focus on the environment or their internal experience rather than direct social interaction with others."
+    }
+  ],
+  "recommendations": [
+    "Continue inviting open conversation about feelings during quiet moments together, exploring what they notice in nature or at home, to help them verbalize their rich inner world.",
+    "Provide a wider range of art materials, such as watercolors, pastels, or even building blocks, so your child can experiment with new forms of expression and explore their creativity in different ways.",
+    "Engage in activities that foster connection to their environment, like gardening or observing nature, which can resonate with their apparent attunement to their surroundings."
+  ],
+  "concerns": [
+    "The absence of a human figure in the drawing, which is somewhat uncommon for an 8-year-old, could suggest a temporary focus away from social relationships or a preoccupation with their internal world or environment.",
+    "While not alarming, the emphasis on clouds and rain, even with vibrant elements like flowers and fruits, might indicate a pensive or reflective mood that's currently present in your child's emotional landscape.",
+    "The overall composition, though structured, might subtly suggest a child who is more comfortable observing their environment from a distance rather than actively placing themselves or others within it."
+  ],
+  "createdAt": "2026-04-29T23:40:56.587065+00:00",
+  "_meta": {
+    "module": "a",
+    "model": "gemini-2.5-flash",
+    "drawing_id": "drawing_1",
+    "prompt_version": "v1_original",
+    "validation_errors": []
+  }
+}

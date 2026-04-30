@@ -1,0 +1,15 @@
+{
+  "raw_response": "{\n  \"drawingTitle\": \"منزل جميل مع الطفلة\",\n  \"overallMood\": \"ايجابي\",\n  \"colorUsage\": {\n    \"dominantColors\": [\n      {\n        \"color\": \"زرقاء\",\n        \"percentage\": 0.7,\n        \"symbolism\": \"السلام والهدوء\"\n      },\n      {\n        \"color\": \"احمر\",\n        \"percentage\": 0.2,\n        \"symbolism\": \"السعادة والحب\"\n      },\n      {\n        \"color\": \"بنفسجي\",\n        \"percentage\": 0.1,\n        \"symbolism\": \"الجاذبية والرومانسية\"\n      }\n    ],\n    \"colorDiversity\": 0.9,\n    \"emotionalColorChoices\": 0.8,\n    \"ageAppropriateColorUse\": 0.9,\n    \"colorSymbolism\": \"استخدام واسع الطيف من الألوان تمثل مشاعر مختلفة\",\n    \"colorPatterns\": \"صغيرة التباين والتوتر، تستخدم ألوان مختلفة بشكل تقيد\",\n    \"unusualColorChoices\": \"لاتوجد ألوان غير متوقعة في الرسمة\"\n  },\n  \"emotionalIndicators\": {\n    \"happiness\": 0.9,\n    \"confidence\": 0.8,\n    \"creativity\": 0.7,\n    \"socialBonds\": 0.8\n  },\n  \"personalityTraits\": {\n    \"extroversion\": 0.6,\n    \"emotionalStability\": 0.9,\n    \"conscientiousness\": 0.5,\n    \"openness\": 0.6,\n    \"agreeableness\": 0.7\n  },\n  \"keyInsights\": [\n    {\n      \"emoji\": \"😊\",\n      \"title\": \"سعادة الطفلة\",\n      \"description\": \"قد يشير هذا الرسم إلى نعمة الطفلة وسعيها نحو الأمور الإيجابية والمشاعر الزهرة\".\n    },\n    {\n      \"emoji\": \"🏡\",\n      \"title\": \"المنزل المفضل\",\n      \"description\": \"يمكن أن يعكس هذا الرسم تمسك الطفلة بالمنزل كمكان خاص ومهد آمن، مما يستحق الاهتمام البسيط\".\n    },\n    {\n      \"emoji\": \"🎨\",\n      \"title\": \"اللمسة التворعية\",\n      \"description\": \"يتمتع الطفلة بالتفكير الابداعي والتواصل الفعال مع العالم حولها، مما يؤكد على ميولها العالية للتفهيم والابتكار\".\n    },\n    {\n      \"emoji\": \"🌸\",\n      \"title\": \"علاقة تآلف\",\n      \"description\": \"الرسم يظهر تواصل الطفلة بالهادئ مع العالم والآخرين، مما يستحق دعمًا للتعبير عن التفاصيل الأخرى من خلال الحوار الأسرتية البسيطة والودية\".\n    }\n  ],\n  \"recommendations\": [\n    \"تشجع ابنتك على مشاركة هذه الرسومات معك بشكل تلقائي، حيث يمكن اكتشاف المزيد من القصص الإيجابية والتعبير عن مشاعرها.\",\n    \"الاطلاع بانتظام على أوراق الابداع الخاصة بها وتشجيع ابنتك على استكشاف المزيد من الفضلات وتحسين وسائل التواصل الفنية لديها.\",\n    \"اطرق باب الحوار في مجال التفاصيل الحقيقية في رحلاتها واهتماماتها للمساعدة في فهم دفء التفكير الإيجابي الذي يعبرون عنه\"\n  ],\n  \"concerns\": [\n    \"منطقيا، لا توجد تدابير يجب اتخاذها لحماية الإنجاب من المشاعروالإيجابية والتعبير عن إيجابية الألوان والحب\",\n    \"لا توجد مشاهدة تحتاج إلى اهتمام أهالي\"\n  ],\n  \"createdAt\": \"2023-04-01T14:00:00Z\"\n}",
+  "validation_errors": [
+    "JSON parse error: Expecting ',' delimiter: line 46 column 101 (char 1222)"
+  ],
+  "_meta": {
+    "module": "c",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_5",
+    "prompt_version": "v4_arabic",
+    "validation_errors": [
+      "JSON parse error: Expecting ',' delimiter: line 46 column 101 (char 1222)"
+    ]
+  }
+}

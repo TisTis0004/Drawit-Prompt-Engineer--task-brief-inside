@@ -1,0 +1,86 @@
+{
+  "drawingTitle": "A Secluded Home with Fruiting Tree Under Gentle Rain",
+  "overallMood": "concerning",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "gray",
+        "percentage": 0.25,
+        "symbolism": "May suggest a sense of uncertainty or a desire to blend into the background."
+      },
+      {
+        "color": "brown",
+        "percentage": 0.2,
+        "symbolism": "Reflects a need for stability and groundedness in the child's environment."
+      },
+      {
+        "color": "blue",
+        "percentage": 0.15,
+        "symbolism": "Could indicate a quiet, thoughtful, or slightly subdued emotional state."
+      },
+      {
+        "color": "purple",
+        "percentage": 0.1,
+        "symbolism": "Often associated with creativity and a rich, imaginative inner world."
+      },
+      {
+        "color": "red",
+        "percentage": 0.05,
+        "symbolism": "A small touch of energy or strong emotion present in the home's details."
+      }
+    ],
+    "colorDiversity": 0.5,
+    "emotionalColorChoices": 0.4,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "A somber and muted palette that suggests a reflective and slightly heavy emotional climate.",
+    "colorPatterns": "Delicate shading and careful fills, particularly on the structural elements of the house.",
+    "unusualColorChoices": "The use of purple for the roof is a striking choice that points toward a retreat into fantasy."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.4,
+    "confidence": 0.6,
+    "creativity": 0.7,
+    "socialBonds": 0.3
+  },
+  "personalityTraits": {
+    "extroversion": 0.3,
+    "emotionalStability": 0.6,
+    "conscientiousness": 0.8,
+    "openness": 0.6,
+    "agreeableness": 0.6
+  },
+  "keyInsights": [
+    {
+      "emoji": "👤",
+      "title": "Absence of Self-Representation",
+      "description": "The complete omission of a human figure for a 10-year-old suggests potential difficulties with self-concept or social connection."
+    },
+    {
+      "emoji": "🏠",
+      "title": "House as a Retreat",
+      "description": "The house appears structured and well-grounded but also somewhat isolated, suggesting a desire for privacy or retreat into fantasy."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Fenced-Off Productivity",
+      "description": "The fruiting tree depicted behind a fence implies boundaries around personal achievements or feelings of being separated from opportunities."
+    },
+    {
+      "emoji": "☂️",
+      "title": "Subtle Emotional Climate",
+      "description": "The presence of clouds and gentle rain indicates a potentially subdued emotional state, possibly reflecting mild worry or sensitivity."
+    }
+  ],
+  "recommendations": [
+    "Continue encouraging creative expression through art activities, perhaps introducing different mediums or themes that prompt self-reflection and social interaction.",
+    "Celebrate each artwork to boost the child's confidence and joy in creating, focusing on effort and unique choices rather than 'correctness'.",
+    "If concerns persist, consider a more comprehensive psychological assessment to explore underlying emotional or social challenges, particularly regarding self-concept and peer relationships."
+  ],
+  "concerns": [
+    "The complete absence of a person in the drawing may suggest feelings of unimportance or a desire to avoid direct engagement with human relationships.",
+    "The presence of rain and clouds, though light, suggests an undercurrent of sadness or worry.",
+    "The fence separating the tree from the house could signify emotional boundaries or a sense of being protected or isolated.",
+    "The somewhat 'barred' appearance of one window on the house might suggest feelings of being shut off in certain aspects of home life."
+  ],
+  "createdAt": "2026-04-29T10:29:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "error": "Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}]",
+  "model": "gemini-2.5-flash",
+  "drawing": "drawing_1",
+  "_meta": {
+    "module": "b",
+    "model": "gemini-2.5-flash",
+    "drawing_id": "drawing_1",
+    "prompt_version": "v3_optimized",
+    "validation_errors": [
+      "Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}]"
+    ]
+  }
+}

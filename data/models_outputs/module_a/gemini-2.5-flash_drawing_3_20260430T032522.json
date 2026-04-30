@@ -1,0 +1,96 @@
+{
+  "drawingTitle": "A Hilly Landscape with Two Figures and Homes",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "Light Green",
+        "percentage": 0.35,
+        "symbolism": "Used broadly for the rolling hills and tree canopy, suggesting a connection to nature, growth, and a desire for a fresh, calm environment."
+      },
+      {
+        "color": "Brown",
+        "percentage": 0.15,
+        "symbolism": "Applied to the tree trunk and parts of the house roofs, indicating a sense of grounding, stability, and natural warmth within the child's perceived world."
+      },
+      {
+        "color": "Light Red",
+        "percentage": 0.1,
+        "symbolism": "Used for the detailed roof of one house, symbolizing warmth, energy, and a comfortable, secure feeling associated with home."
+      },
+      {
+        "color": "Light Blue",
+        "percentage": 0.08,
+        "symbolism": "Colors one of the houses, suggesting a desire for peace, tranquility, and a serene aspect within their living spaces."
+      },
+      {
+        "color": "Dark Grey",
+        "percentage": 0.05,
+        "symbolism": "Used for outlines, windows, doors, and the path, providing structure, definition, and a sense of order to the various elements in the drawing."
+      }
+    ],
+    "colorDiversity": 0.7,
+    "emotionalColorChoices": 0.8,
+    "ageAppropriateColorUse": 0.9,
+    "colorSymbolism": "The palette is dominated by earthy and calm tones, suggesting a child who appreciates natural settings and finds comfort in a stable, harmonious environment. The warm reds and oranges add a touch of inviting energy.",
+    "colorPatterns": "Colors are applied with a blend of block fills for larger areas like hills and tree canopies, and lighter, scribbled fills for the houses, showing an emerging control over coloring within defined lines. Outlines are used consistently for details.",
+    "unusualColorChoices": "There are no unusual or striking color choices, reflecting a preference for a balanced and conventional color scheme."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.8,
+    "confidence": 0.7,
+    "creativity": 0.6,
+    "socialBonds": 0.8
+  },
+  "personalityTraits": {
+    "extroversion": 0.7,
+    "emotionalStability": 0.8,
+    "conscientiousness": 0.7,
+    "openness": 0.6,
+    "agreeableness": 0.8
+  },
+  "keyInsights": [
+    {
+      "emoji": "🤝",
+      "title": "Strong Social Connection",
+      "description": "The two figures holding hands suggests a strong desire for connection and positive social bonds, perhaps with a sibling, friend, or parent. This highlights the importance of relationships in your child's world."
+    },
+    {
+      "emoji": "🏡",
+      "title": "Focus on Home & Security",
+      "description": "The presence of two distinct and detailed houses, especially the larger one with a chimney and patterned roof, may indicate a strong focus on home life, family, and a sense of security within their living environment."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Appreciation for Nature",
+      "description": "The prominent tree and rolling hills, colored in a gentle green, show an appreciation for nature and an outdoor environment, suggesting a child who feels calm and grounded when connected to the natural world."
+    },
+    {
+      "emoji": "😊",
+      "title": "Overall Positive Outlook",
+      "description": "The smiling faces on the figures, combined with the pleasant, organized scene and soft, inviting color palette, suggest an overall positive emotional state and a harmonious view of their surroundings."
+    },
+    {
+      "emoji": "🗺️",
+      "title": "Organized Worldview",
+      "description": "The balanced composition, the clear ground line, and the inclusion of various elements like houses, people, a tree, and birds, all integrated into a coherent scene, suggest an organized and stable perception of their world."
+    }
+  ],
+  "recommendations": [
+    "Continue to encourage and facilitate opportunities for social play and interaction, reinforcing those valued connections your child may be seeking.",
+    "Create opportunities to discuss 'home' in a broad sense – perhaps by looking at different types of houses, or talking about what makes a house feel like a 'home' to them.",
+    "Provide a wider range of art materials, perhaps including paints or pastels, to allow for more experimentation with color and texture, building on their already good control."
+  ],
+  "concerns": [
+    "The human figures are drawn with simpler, more schematic details compared to the houses, which are quite elaborate. This may gently suggest a current focus on the external environment or home life rather than a deep exploration of personal identity or self-representation in their drawing.",
+    "While the scene is very complete, the path seems to lead somewhat past the figures rather than directly connecting them to the houses, which might be worth gentle attention regarding how your child perceives their direct connection or pathway to their home or family unit."
+  ],
+  "createdAt": "2026-04-30T00:25:22.167929+00:00",
+  "_meta": {
+    "module": "a",
+    "model": "gemini-2.5-flash",
+    "drawing_id": "drawing_3",
+    "prompt_version": "v1_original",
+    "validation_errors": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "drawingTitle": "Home, Self, and Sun: A Glimpse into Adam's World",
+  "overallMood": "concerning",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "blue",
+        "percentage": 0.35,
+        "symbolism": "Used for the sky and structural lines, reflecting a calm but perhaps slightly introverted emotional tone."
+      },
+      {
+        "color": "green",
+        "percentage": 0.2,
+        "symbolism": "Associated with growth and a sense of belonging in the natural world."
+      },
+      {
+        "color": "yellow",
+        "percentage": 0.15,
+        "symbolism": "Represents the sun, indicating a desire for warmth, happiness, and external support."
+      },
+      {
+        "color": "red",
+        "percentage": 0.1,
+        "symbolism": "Used for the self-portrait's garment and home details, suggesting strong identity expression or emotional focus."
+      }
+    ],
+    "colorDiversity": 0.6,
+    "emotionalColorChoices": 0.5,
+    "ageAppropriateColorUse": 0.7,
+    "colorSymbolism": "A palette that balances primary colors with softer tones, suggesting a search for emotional equilibrium.",
+    "colorPatterns": "Broad strokes for the environment and more focused application on specific figures.",
+    "unusualColorChoices": "The choice of a red 'dress' for the self-portrait is a notable and unique detail for a boy."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.6,
+    "confidence": 0.4,
+    "creativity": 0.6,
+    "socialBonds": 0.4
+  },
+  "personalityTraits": {
+    "extroversion": 0.5,
+    "emotionalStability": 0.5,
+    "conscientiousness": 0.6,
+    "openness": 0.5,
+    "agreeableness": 0.7
+  },
+  "keyInsights": [
+    {
+      "emoji": "🏠",
+      "title": "Blocked Access/Privacy in Home",
+      "description": "The 'X' marks on the house windows, and the absence of a door, suggest feelings of being closed off, a desire for privacy, or a sense that communication within the home is restricted."
+    },
+    {
+      "emoji": "👤",
+      "title": "Self-Concept & Gender Expression",
+      "description": "Adam's self-portrait is simplified for his age and depicted in a 'dress', warranting gentle exploration regarding self-perception and identification with nurturing aspects."
+    },
+    {
+      "emoji": "📉",
+      "title": "Developmental Simplification",
+      "description": "The drawing's overall simplicity is somewhat below typical expectations for a 10-year-old, which may reflect emotional factors or self-consciousness."
+    },
+    {
+      "emoji": "☀️",
+      "title": "Desired Optimism & Support",
+      "description": "The presence of a large, smiling sun radiating warmth might indicate Adam's desire for happiness, external support, or a generally positive outlook as a coping mechanism."
+    }
+  ],
+  "recommendations": [
+    "Continue encouraging creative expression through art activities, emphasizing process over product.",
+    "Celebrate each artwork to boost the child's confidence and joy in creating, focusing on his efforts and unique choices.",
+    "Maintain an open and supportive home environment where Adam feels safe to express his thoughts and feelings, including any questions or concerns he may have."
+  ],
+  "concerns": [
+    "Potential feelings of emotional inaccessibility or a need for privacy/boundaries within the home environment, indicated by the blocked windows and lack of a door.",
+    "Aspects of self-concept or gender expression that warrant gentle exploration, given the simplified figure and choice of red 'dress' for a boy.",
+    "The drawing's developmental simplicity for a 10-year-old may suggest emotional factors influencing engagement or self-perception, rather than purely a lack of artistic skill."
+  ],
+  "createdAt": "2026-04-29T10:32:00Z"
+}

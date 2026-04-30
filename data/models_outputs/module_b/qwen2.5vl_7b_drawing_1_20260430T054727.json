@@ -1,0 +1,90 @@
+{
+  "drawingTitle": "House with Tree and Fence",
+  "overallMood": "positive",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "gray",
+        "percentage": 0.4,
+        "symbolism": "neutral in this context"
+      },
+      {
+        "color": "purple",
+        "percentage": 0.2,
+        "symbolism": "creativity"
+      },
+      {
+        "color": "brown",
+        "percentage": 0.15,
+        "symbolism": "nature"
+      },
+      {
+        "color": "red",
+        "percentage": 0.1,
+        "symbolism": "energy, excitement"
+      },
+      {
+        "color": "pink",
+        "percentage": 0.1,
+        "symbolism": "sweet, comfortable"
+      }
+    ],
+    "colorDiversity": 0.7,
+    "emotionalColorChoices": 0.8,
+    "ageAppropriateColorUse": 0.85,
+    "colorSymbolism": "shows variety of moods",
+    "colorPatterns": "random application",
+    "unusualColorChoices": "pink and brown flowers"
+  },
+  "emotionalIndicators": {
+    "happiness": 0.75,
+    "confidence": 0.6,
+    "creativity": 0.8,
+    "socialBonds": 0.5
+  },
+  "personalityTraits": {
+    "extroversion": 0.7,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.6,
+    "openness": 0.8,
+    "agreeableness": 0.6
+  },
+  "keyInsights": [
+    {
+      "emoji": "😊",
+      "title": "Happiness in Home",
+      "description": "The child seems to be expressing a sense of comfort and safety within their home."
+    },
+    {
+      "emoji": "🎨",
+      "title": "Creative Home",
+      "description": "The use of multiple colors and a lively scene shows that the child is quite imaginative."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Nature in Home",
+      "description": "The tree and fence with flowers suggest a strong connection with nature and a peaceful environment."
+    },
+    {
+      "emoji": "🏠",
+      "title": "Cozy Home",
+      "description": "The house drawing is detailed and appears friendly, indicating familiarity and security."
+    }
+  ],
+  "recommendations": [
+    "Discuss how the child is feeling at home.",
+    "Ask the child about the flowers and why they chose them."
+  ],
+  "concerns": [
+    "No indicators of distress, just observations of a vibrant home.",
+    "No specific emotional concerns observed directly."
+  ],
+  "createdAt": "2026-04-30T02:47:27.004805+00:00",
+  "_meta": {
+    "module": "b",
+    "model": "qwen2.5vl:7b",
+    "drawing_id": "drawing_1",
+    "prompt_version": "v3_optimized",
+    "validation_errors": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "drawingTitle": "A Boy, His House, and a Rooted Tree in a Fenced Yard",
+  "overallMood": "neutral",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "blue",
+        "percentage": 0.3,
+        "symbolism": "Used for the house and sky elements, suggesting a structured and thoughtful approach to his environment."
+      },
+      {
+        "color": "green",
+        "percentage": 0.2,
+        "symbolism": "Represents the foliage of the tree, indicating potential for growth and a connection to the natural world."
+      },
+      {
+        "color": "red",
+        "percentage": 0.2,
+        "symbolism": "Used for the boy's clothing and the tree trunk, highlighting areas of personal identity and foundational strength."
+      },
+      {
+        "color": "black",
+        "percentage": 0.15,
+        "symbolism": "Applied to the grounding elements like feet and roots, reflecting a strong emphasis on stability and security."
+      },
+      {
+        "color": "purple",
+        "percentage": 0.1,
+        "symbolism": "Used for the house roof, suggesting a unique, imaginative, or perhaps more private view of home life."
+      },
+      {
+        "color": "brown",
+        "percentage": 0.05,
+        "symbolism": "A minor accent color providing additional earthy tones to the landscape's features."
+      }
+    ],
+    "colorDiversity": 0.8,
+    "emotionalColorChoices": 0.6,
+    "ageAppropriateColorUse": 0.8,
+    "colorSymbolism": "A varied and vibrant palette that balances traditional landscape colors with more personal, imaginative choices.",
+    "colorPatterns": "Solid blocks of color defined by clear, dark outlines, showing a high level of control and detail.",
+    "unusualColorChoices": "The purple roof is a distinct choice that suggests a creative or intellectualized retreat from the everyday."
+  },
+  "emotionalIndicators": {
+    "happiness": 0.7,
+    "confidence": 0.6,
+    "creativity": 0.7,
+    "socialBonds": 0.5
+  },
+  "personalityTraits": {
+    "extroversion": 0.4,
+    "emotionalStability": 0.7,
+    "conscientiousness": 0.8,
+    "openness": 0.6,
+    "agreeableness": 0.6
+  },
+  "keyInsights": [
+    {
+      "emoji": "🚶",
+      "title": "Seeking Stability & Self-Reliance",
+      "description": "The central placement of the boy figure, with strong, dark feet, suggests a focus on self and a deep need for personal stability and grounding."
+    },
+    {
+      "emoji": "🚧",
+      "title": "Emotional Boundaries & Connection",
+      "description": "The fence positioned between the boy and the house/tree may represent a desire for personal space, or a perceived emotional distance within his environment."
+    },
+    {
+      "emoji": "🌳",
+      "title": "Core Vulnerability Beneath Strength",
+      "description": "The tree's sturdy trunk yet prominent, exposed roots indicates an underlying need for security and a stable foundation, despite apparent external strength."
+    },
+    {
+      "emoji": "✋",
+      "title": "Careful Engagement Style",
+      "description": "The stiff posture and rudimentary hands of the person might reflect a cautious approach to social interaction or difficulty in actively engaging with the world."
+    },
+    {
+      "emoji": "🏠",
+      "title": "Unique Perspective on Home",
+      "description": "The unusual purple roof on the house suggests an imaginative or distinct, perhaps introverted, view of his home environment and family dynamics."
+    }
+  ],
+  "recommendations": [
+    "Continue encouraging creative expression through art activities to help him further explore and communicate his feelings.",
+    "Celebrate each artwork to boost the child's confidence and joy in creating, focusing on his unique perspective and storytelling."
+  ],
+  "concerns": [
+    "Potential for mild social inhibition or difficulty in fully engaging with new situations, indicated by the stiff posture, rudimentary hands, and the fence.",
+    "An underlying, yet significant, need for security, stability, and emotional grounding, symbolized by the prominent roots and large feet.",
+    "The overall simplicity of the composition for a 10-year-old might suggest a cautious or less expansive approach to self-expression at this time."
+  ],
+  "createdAt": "2026-04-29T10:32:00Z"
+}
