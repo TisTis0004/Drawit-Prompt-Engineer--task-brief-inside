@@ -1,0 +1,8 @@
+AI Usage
+========================================================================
+
+* I used AI for validating the boilerplate for the whole task infrastructure before starting - used ChatGPT 5.5
+* Extracting the JSON baseline outputs from the apps via screen shots - used Gemini 3
+* Adjusting the prompt for Module b to optimize while trying to maintain the same baseline results - Claude Sonnet 4.6
+* Documentation refining for the .md files - Claude Sonnet 4.6
+
