@@ -30,21 +30,20 @@ python src/run_batch.py --skip-existing
 
 ## Models
 
-| Model | Type | Requires |
-|-------|------|---------|
-| `gemini-2.5-flash` | Gemini API | `GEMINI_API_KEY` in .env |
-| `gemma4:e4b` | Ollama (vision) | Ollama running locally |
-| `qwen2.5vl:7b` | Ollama (vision) | Ollama running locally |
-| `ministral-3:8b` | Ollama (text-only) | Ollama — will fail on images gracefully |
+| Model              | Type            | Requires                 |
+| ------------------ | --------------- | ------------------------ |
+| `gemini-2.5-flash` | Gemini API      | `GEMINI_API_KEY` in .env |
+| `gemma4:e4b`       | Ollama (vision) | Ollama running locally   |
+| `qwen2.5vl:7b`     | Ollama (vision) | Ollama running locally   |
 
 ## Modules
 
-| Module | Prompt | Task |
-|--------|--------|------|
-| `a` | v1_original | Cross-model replication vs. production baseline |
-| `b` | v3_optimized | Token-optimized prompt (31.6% reduction) |
-| `c` | v4_arabic | Arabic localization for MENA mothers |
-| `d` | v1_original | Edge case analysis (see evals/module_d/) |
+| Module | Prompt       | Task                                            |
+| ------ | ------------ | ----------------------------------------------- |
+| `a`    | v1_original  | Cross-model replication vs. production baseline |
+| `b`    | v3_optimized | Token-optimized prompt (31.6% reduction)        |
+| `c`    | v4_arabic    | Arabic localization for MENA mothers            |
+| `d`    | v1_original  | Edge case analysis (see evals/module_d/)        |
 
 ## Outputs
 
