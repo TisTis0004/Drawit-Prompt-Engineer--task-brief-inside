@@ -2,18 +2,18 @@
 
 ## Models Tested
 
-| Model | Type | Backend |
-|-------|------|---------|
+| Model            | Type                    | Backend           |
+| ---------------- | ----------------------- | ----------------- |
 | gemini-2.5-flash | Frontier cost-efficient | Google Gemini API |
-| gemma4:e4b | Open-source vision | Ollama local |
-| qwen2.5vl:7b | Open-source vision (VL) | Ollama local |
-| ministral-3:8b | Open-source text-only | Ollama local (expected to fail on images) |
+| gemma4:e4b       | Open-source vision      | Ollama local      |
+| qwen2.5vl:7b     | Open-source vision (VL) | Ollama local      |
 
 Note: gemini-2.5-pro was initially attempted but hit free-tier daily quota limits. Substituted with gemini-2.5-flash, which is within the task brief's "cost-efficient frontier model" category.
 
 ## Drawings Tested
 
 5 drawings covering all three mood classes from the production baseline:
+
 - drawing_1.jpg — baseline: concerning
 - drawing_2.jpg — baseline: concerning
 - drawing_3.jpg — baseline: neutral
@@ -37,9 +37,7 @@ The production app's "concerning" classifications are driven by convergence of m
 
 ### 2. Structural Divergence
 
-All models that support vision (gemini-2.5-flash, gemma4:e4b, qwen2.5vl:7b) produced structurally valid JSON on validated drawings. No missing required fields were observed in successful runs.
-
-ministral-3:8b is a text-only model and cannot process the image component. Expected failure — included to document the failure mode for the record.
+All models (gemini-2.5-flash, gemma4:e4b, qwen2.5vl:7b) produced structurally valid JSON on validated drawings. No missing required fields were observed in successful runs.
 
 ### 3. Tonal Divergence
 
