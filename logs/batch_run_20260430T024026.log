@@ -1,0 +1,40 @@
+2026-04-30 02:40:27,099 [INFO] drawit.batch: Starting batch: modules=['a', 'b', 'c'] models=['gemini-2.5-flash', 'gemma4:e4b', 'qwen2.5vl:7b', 'ministral-3:8b'] drawings=['drawing_1', 'drawing_2', 'drawing_3', 'drawing_4_paper', 'drawing_5']
+2026-04-30 02:40:27,100 [INFO] drawit.batch: 
+============================================================
+MODULE A — prompt: v1_original
+============================================================
+2026-04-30 02:40:56,586 [INFO] drawit.batch: [a|gemini-2.5-flash|drawing_1] OK — mood=neutral
+2026-04-30 02:44:13,945 [INFO] drawit.batch: [a|gemma4:e4b|drawing_1] OK — mood=positive
+2026-04-30 02:57:26,242 [ERROR] drawit.batch: [a|qwen2.5vl:7b|drawing_1] Inference failed: Error code: 500 - {'error': {'message': 'an error was encountered while running the model: GGML_ASSERT(a->ne[2] * 4 == b->ne[0]) failed', 'type': 'api_error', 'param': None, 'code': None}}
+2026-04-30 03:04:48,982 [WARNING] drawit.batch: [a|ministral-3:8b|drawing_1] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 14 column 24 (char 596)"]
+2026-04-30 03:05:17,463 [INFO] drawit.batch: [a|gemini-2.5-flash|drawing_2] OK — mood=positive
+2026-04-30 03:05:21,465 [INFO] drawit.batch:   [SKIP] a|gemma4:e4b|drawing_2 — already exists
+2026-04-30 03:18:32,324 [ERROR] drawit.batch: [a|qwen2.5vl:7b|drawing_2] Inference failed: Error code: 500 - {'error': {'message': 'an error was encountered while running the model: GGML_ASSERT(a->ne[2] * 4 == b->ne[0]) failed', 'type': 'api_error', 'param': None, 'code': None}}
+2026-04-30 03:25:02,566 [WARNING] drawit.batch: [a|ministral-3:8b|drawing_2] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 13 column 24 (char 509)"]
+2026-04-30 03:25:22,167 [INFO] drawit.batch: [a|gemini-2.5-flash|drawing_3] OK — mood=positive
+2026-04-30 03:28:34,806 [INFO] drawit.batch: [a|gemma4:e4b|drawing_3] OK — mood=positive
+2026-04-30 03:41:37,426 [ERROR] drawit.batch: [a|qwen2.5vl:7b|drawing_3] Inference failed: Error code: 500 - {'error': {'message': 'an error was encountered while running the model: GGML_ASSERT(a->ne[2] * 4 == b->ne[0]) failed', 'type': 'api_error', 'param': None, 'code': None}}
+2026-04-30 03:48:04,158 [WARNING] drawit.batch: [a|ministral-3:8b|drawing_3] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 14 column 24 (char 452)"]
+2026-04-30 03:48:23,449 [INFO] drawit.batch: [a|gemini-2.5-flash|drawing_4_paper] OK — mood=positive
+2026-04-30 03:51:54,098 [INFO] drawit.batch: [a|gemma4:e4b|drawing_4_paper] OK — mood=positive
+2026-04-30 03:55:06,527 [INFO] drawit.batch: [a|qwen2.5vl:7b|drawing_4_paper] OK — mood=positive
+2026-04-30 04:00:13,880 [WARNING] drawit.batch: [a|ministral-3:8b|drawing_4_paper] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 13 column 25 (char 461)"]
+2026-04-30 04:00:35,930 [INFO] drawit.batch: [a|gemini-2.5-flash|drawing_5] OK — mood=positive
+2026-04-30 04:03:38,304 [INFO] drawit.batch: [a|gemma4:e4b|drawing_5] OK — mood=positive
+2026-04-30 04:06:31,814 [INFO] drawit.batch: [a|qwen2.5vl:7b|drawing_5] OK — mood=positive
+2026-04-30 04:12:00,185 [WARNING] drawit.batch: [a|ministral-3:8b|drawing_5] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 15 column 24 (char 475)"]
+2026-04-30 04:12:00,189 [INFO] drawit.batch: Comparison table saved → /home/TisTis/Projects/Drawit/Drawit Prompt Engineer, task brief inside/evals/module_a/comparison_table.csv
+2026-04-30 04:12:00,189 [INFO] drawit.batch: 
+============================================================
+MODULE B — prompt: v3_optimized
+============================================================
+2026-04-30 04:12:27,353 [ERROR] drawit.batch: [b|gemini-2.5-flash|drawing_1] Inference failed: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}]
+2026-04-30 04:15:30,897 [INFO] drawit.batch: [b|gemma4:e4b|drawing_1] OK — mood=positive
+2026-04-30 04:30:21,583 [ERROR] drawit.batch: [b|qwen2.5vl:7b|drawing_1] Inference failed: Error code: 500 - {'error': {'message': 'an error was encountered while running the model: GGML_ASSERT(a->ne[2] * 4 == b->ne[0]) failed', 'type': 'api_error', 'param': None, 'code': None}}
+2026-04-30 04:37:35,751 [WARNING] drawit.batch: [b|ministral-3:8b|drawing_1] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 70 column 102 (char 2523)"]
+2026-04-30 04:37:57,030 [INFO] drawit.batch: [b|gemini-2.5-flash|drawing_2] OK — mood=positive
+2026-04-30 04:40:36,197 [INFO] drawit.batch: [b|gemma4:e4b|drawing_2] OK — mood=positive
+2026-04-30 04:55:25,377 [ERROR] drawit.batch: [b|qwen2.5vl:7b|drawing_2] Inference failed: Error code: 500 - {'error': {'message': 'an error was encountered while running the model: GGML_ASSERT(a->ne[2] * 4 == b->ne[0]) failed', 'type': 'api_error', 'param': None, 'code': None}}
+2026-04-30 05:01:48,436 [WARNING] drawit.batch: [b|ministral-3:8b|drawing_2] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 28 column 31 (char 952)"]
+2026-04-30 05:02:16,588 [INFO] drawit.batch: [b|gemini-2.5-flash|drawing_3] OK — mood=positive
+2026-04-30 05:03:51,406 [WARNING] drawit.batch: [b|gemma4:e4b|drawing_3] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 2 column 2 (char 3640)"]

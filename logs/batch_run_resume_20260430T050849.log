@@ -1,0 +1,142 @@
+2026-04-30 05:08:49,760 [INFO] drawit.batch: Starting batch: modules=['a', 'b', 'c'] models=['gemini-2.5-flash', 'gemma4:e4b', 'qwen2.5vl:7b', 'ministral-3:8b'] drawings=['drawing_1', 'drawing_2', 'drawing_3', 'drawing_4_paper', 'drawing_5']
+2026-04-30 05:08:49,760 [INFO] drawit.batch: 
+============================================================
+MODULE A — prompt: v1_original
+============================================================
+2026-04-30 05:08:49,760 [INFO] drawit.batch:   [SKIP] a|gemini-2.5-flash|drawing_1 — already exists
+2026-04-30 05:08:49,761 [INFO] drawit.batch:   [SKIP] a|gemma4:e4b|drawing_1 — already exists
+2026-04-30 05:11:39,275 [WARNING] drawit.batch: [a|qwen2.5vl:7b|drawing_1] Validation issues: ["overallMood: Value error, overallMood must be one of {'يستدعي الانتباه', 'ايجابي', 'neutral', 'concerning', 'positive', 'طبيعي'}, got 'nuanced'"]
+2026-04-30 05:17:37,847 [INFO] drawit.batch: [a|ministral-3:8b|drawing_1] OK — mood=positive
+2026-04-30 05:17:37,848 [INFO] drawit.batch:   [SKIP] a|gemini-2.5-flash|drawing_2 — already exists
+2026-04-30 05:17:37,848 [INFO] drawit.batch:   [SKIP] a|gemma4:e4b|drawing_2 — already exists
+2026-04-30 05:20:37,304 [INFO] drawit.batch: [a|qwen2.5vl:7b|drawing_2] OK — mood=positive
+2026-04-30 05:26:02,701 [WARNING] drawit.batch: [a|ministral-3:8b|drawing_2] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 15 column 24 (char 541)"]
+2026-04-30 05:26:02,702 [INFO] drawit.batch:   [SKIP] a|gemini-2.5-flash|drawing_3 — already exists
+2026-04-30 05:26:02,703 [INFO] drawit.batch:   [SKIP] a|gemma4:e4b|drawing_3 — already exists
+2026-04-30 05:28:49,809 [WARNING] drawit.batch: [a|qwen2.5vl:7b|drawing_3] Validation issues: ['colorUsage -> unusualColorChoices: Field required']
+2026-04-30 05:34:44,383 [WARNING] drawit.batch: [a|ministral-3:8b|drawing_3] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 2 column 54 (char 55)"]
+2026-04-30 05:34:44,384 [INFO] drawit.batch:   [SKIP] a|gemini-2.5-flash|drawing_4_paper — already exists
+2026-04-30 05:34:44,385 [INFO] drawit.batch:   [SKIP] a|gemma4:e4b|drawing_4_paper — already exists
+2026-04-30 05:34:44,385 [INFO] drawit.batch:   [SKIP] a|qwen2.5vl:7b|drawing_4_paper — already exists
+2026-04-30 05:39:46,837 [INFO] drawit.batch: [a|ministral-3:8b|drawing_4_paper] OK — mood=positive
+2026-04-30 05:39:46,838 [INFO] drawit.batch:   [SKIP] a|gemini-2.5-flash|drawing_5 — already exists
+2026-04-30 05:39:46,839 [INFO] drawit.batch:   [SKIP] a|gemma4:e4b|drawing_5 — already exists
+2026-04-30 05:39:46,840 [INFO] drawit.batch:   [SKIP] a|qwen2.5vl:7b|drawing_5 — already exists
+2026-04-30 05:44:19,487 [WARNING] drawit.batch: [a|ministral-3:8b|drawing_5] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 18 column 24 (char 804)"]
+2026-04-30 05:44:19,488 [INFO] drawit.batch: Comparison table saved → /home/TisTis/Projects/Drawit/Drawit Prompt Engineer, task brief inside/evals/module_a/comparison_table.csv
+2026-04-30 05:44:19,488 [INFO] drawit.batch: 
+============================================================
+MODULE B — prompt: v3_optimized
+============================================================
+2026-04-30 05:44:49,030 [INFO] drawit.batch: [b|gemini-2.5-flash|drawing_1] OK — mood=neutral
+2026-04-30 05:44:53,032 [INFO] drawit.batch:   [SKIP] b|gemma4:e4b|drawing_1 — already exists
+2026-04-30 05:47:27,004 [INFO] drawit.batch: [b|qwen2.5vl:7b|drawing_1] OK — mood=positive
+2026-04-30 05:53:09,450 [INFO] drawit.batch: [b|ministral-3:8b|drawing_1] OK — mood=neutral
+2026-04-30 05:53:09,452 [INFO] drawit.batch:   [SKIP] b|gemini-2.5-flash|drawing_2 — already exists
+2026-04-30 05:53:09,452 [INFO] drawit.batch:   [SKIP] b|gemma4:e4b|drawing_2 — already exists
+2026-04-30 05:55:54,787 [INFO] drawit.batch: [b|qwen2.5vl:7b|drawing_2] OK — mood=positive
+2026-04-30 06:01:18,578 [WARNING] drawit.batch: [b|ministral-3:8b|drawing_2] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 15 column 24 (char 516)"]
+2026-04-30 06:01:18,579 [INFO] drawit.batch:   [SKIP] b|gemini-2.5-flash|drawing_3 — already exists
+2026-04-30 06:04:14,248 [INFO] drawit.batch: [b|gemma4:e4b|drawing_3] OK — mood=positive
+2026-04-30 06:07:03,579 [INFO] drawit.batch: [b|qwen2.5vl:7b|drawing_3] OK — mood=positive
+2026-04-30 06:12:05,554 [WARNING] drawit.batch: [b|ministral-3:8b|drawing_3] Validation issues: ['JSON parse error: Invalid control character at: line 2 column 43 (char 44)']
+2026-04-30 06:12:32,054 [INFO] drawit.batch: [b|gemini-2.5-flash|drawing_4_paper] OK — mood=positive
+2026-04-30 06:14:01,404 [INFO] drawit.batch: [b|gemma4:e4b|drawing_4_paper] OK — mood=positive
+2026-04-30 06:16:40,196 [INFO] drawit.batch: [b|qwen2.5vl:7b|drawing_4_paper] OK — mood=positive
+2026-04-30 06:21:02,867 [WARNING] drawit.batch: [b|ministral-3:8b|drawing_4_paper] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 20 column 24 (char 690)"]
+2026-04-30 06:21:27,698 [INFO] drawit.batch: [b|gemini-2.5-flash|drawing_5] OK — mood=positive
+2026-04-30 06:23:01,365 [INFO] drawit.batch: [b|gemma4:e4b|drawing_5] OK — mood=positive
+2026-04-30 06:25:33,601 [INFO] drawit.batch: [b|qwen2.5vl:7b|drawing_5] OK — mood=positive
+2026-04-30 06:29:27,298 [WARNING] drawit.batch: [b|ministral-3:8b|drawing_5] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 20 column 24 (char 588)"]
+2026-04-30 06:29:27,298 [INFO] drawit.batch: 
+============================================================
+MODULE C — prompt: v4_arabic
+============================================================
+2026-04-30 06:30:05,929 [INFO] drawit.batch: [c|gemini-2.5-flash|drawing_1] OK — mood=concerning
+2026-04-30 06:33:35,034 [INFO] drawit.batch: [c|gemma4:e4b|drawing_1] OK — mood=neutral
+2026-04-30 06:36:19,970 [WARNING] drawit.batch: [c|qwen2.5vl:7b|drawing_1] Validation issues: ["overallMood: Value error, overallMood must be one of {'يستدعي الانتباه', 'ايجابي', 'neutral', 'concerning', 'positive', 'طبيعي'}, got 'مستبشر'"]
+2026-04-30 06:42:26,010 [WARNING] drawit.batch: [c|ministral-3:8b|drawing_1] Validation issues: ['colorUsage -> emotionalColorChoices: Field required', 'colorUsage -> unusualColorChoices: Field required']
+2026-04-30 06:42:55,537 [INFO] drawit.batch: [c|gemini-2.5-flash|drawing_2] OK — mood=positive
+2026-04-30 06:46:18,182 [INFO] drawit.batch: [c|gemma4:e4b|drawing_2] OK — mood=ايجابي
+2026-04-30 06:49:41,011 [WARNING] drawit.batch: [c|qwen2.5vl:7b|drawing_2] Validation issues: ['JSON parse error: Illegal trailing comma before end of array: line 60 column 519 (char 2719)']
+2026-04-30 06:55:13,773 [WARNING] drawit.batch: [c|ministral-3:8b|drawing_2] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 70 column 123 (char 2522)"]
+2026-04-30 06:55:43,867 [INFO] drawit.batch: [c|gemini-2.5-flash|drawing_3] OK — mood=طبيعي
+2026-04-30 06:59:25,361 [INFO] drawit.batch: [c|gemma4:e4b|drawing_3] OK — mood=طبيعي
+2026-04-30 07:02:18,348 [WARNING] drawit.batch: [c|qwen2.5vl:7b|drawing_3] Validation issues: [': Value error, keyInsights must have 3–6 entries, got 2']
+2026-04-30 07:08:31,481 [INFO] drawit.batch: [c|ministral-3:8b|drawing_3] OK — mood=ايجابي
+2026-04-30 07:09:23,116 [INFO] drawit.batch: [c|gemini-2.5-flash|drawing_4_paper] OK — mood=positive
+2026-04-30 07:12:48,864 [INFO] drawit.batch: [c|gemma4:e4b|drawing_4_paper] OK — mood=positive
+2026-04-30 07:16:06,845 [WARNING] drawit.batch: [c|qwen2.5vl:7b|drawing_4_paper] Validation issues: ["overallMood: Value error, overallMood must be one of {'يستدعي الانتباه', 'ايجابي', 'neutral', 'concerning', 'positive', 'طبيعي'}, got 'natural'"]
+2026-04-30 07:20:59,065 [WARNING] drawit.batch: [c|ministral-3:8b|drawing_4_paper] Validation issues: ['colorUsage -> colorSymbolism: Input should be a valid string']
+2026-04-30 07:21:15,231 [INFO] drawit.batch: [c|gemini-2.5-flash|drawing_5] OK — mood=positive
+2026-04-30 07:24:12,271 [INFO] drawit.batch: [c|gemma4:e4b|drawing_5] OK — mood=ايجابي
+2026-04-30 07:27:15,790 [WARNING] drawit.batch: [c|qwen2.5vl:7b|drawing_5] Validation issues: ["JSON parse error: Expecting ',' delimiter: line 46 column 101 (char 1222)"]
+2026-04-30 07:32:02,123 [INFO] drawit.batch: [c|ministral-3:8b|drawing_5] OK — mood=ايجابي
+2026-04-30 07:32:02,124 [INFO] drawit.batch: 
+Batch complete: 44 OK, 16 skipped, 0 failed
+
+======================================================================
+MODULE   DRAWING            MODEL                  MOOD                 STATUS
+======================================================================
+a        drawing_1          gemini-2.5-flash       neutral              OK
+a        drawing_1          gemma4:e4b             positive             OK
+a        drawing_1          qwen2.5vl:7b           nuanced              WARN(1)
+a        drawing_1          ministral-3:8b         positive             OK
+a        drawing_2          gemini-2.5-flash       positive             OK
+a        drawing_2          gemma4:e4b             neutral              OK
+a        drawing_2          qwen2.5vl:7b           positive             OK
+a        drawing_2          ministral-3:8b         ?                    WARN(1)
+a        drawing_3          gemini-2.5-flash       positive             OK
+a        drawing_3          gemma4:e4b             positive             OK
+a        drawing_3          qwen2.5vl:7b           positive             WARN(1)
+a        drawing_3          ministral-3:8b         ?                    WARN(1)
+a        drawing_4_paper    gemini-2.5-flash       positive             OK
+a        drawing_4_paper    gemma4:e4b             positive             OK
+a        drawing_4_paper    qwen2.5vl:7b           positive             OK
+a        drawing_4_paper    ministral-3:8b         positive             OK
+a        drawing_5          gemini-2.5-flash       positive             OK
+a        drawing_5          gemma4:e4b             positive             OK
+a        drawing_5          qwen2.5vl:7b           positive             OK
+a        drawing_5          ministral-3:8b         ?                    WARN(1)
+b        drawing_1          gemini-2.5-flash       neutral              OK
+b        drawing_1          gemma4:e4b             positive             OK
+b        drawing_1          qwen2.5vl:7b           positive             OK
+b        drawing_1          ministral-3:8b         neutral              OK
+b        drawing_2          gemini-2.5-flash       positive             OK
+b        drawing_2          gemma4:e4b             positive             OK
+b        drawing_2          qwen2.5vl:7b           positive             OK
+b        drawing_2          ministral-3:8b         ?                    WARN(1)
+b        drawing_3          gemini-2.5-flash       positive             OK
+b        drawing_3          gemma4:e4b             positive             OK
+b        drawing_3          qwen2.5vl:7b           positive             OK
+b        drawing_3          ministral-3:8b         ?                    WARN(1)
+b        drawing_4_paper    gemini-2.5-flash       positive             OK
+b        drawing_4_paper    gemma4:e4b             positive             OK
+b        drawing_4_paper    qwen2.5vl:7b           positive             OK
+b        drawing_4_paper    ministral-3:8b         ?                    WARN(1)
+b        drawing_5          gemini-2.5-flash       positive             OK
+b        drawing_5          gemma4:e4b             positive             OK
+b        drawing_5          qwen2.5vl:7b           positive             OK
+b        drawing_5          ministral-3:8b         ?                    WARN(1)
+c        drawing_1          gemini-2.5-flash       concerning           OK
+c        drawing_1          gemma4:e4b             neutral              OK
+c        drawing_1          qwen2.5vl:7b           مستبشر               WARN(1)
+c        drawing_1          ministral-3:8b         طبيعي                WARN(2)
+c        drawing_2          gemini-2.5-flash       positive             OK
+c        drawing_2          gemma4:e4b             ايجابي               OK
+c        drawing_2          qwen2.5vl:7b           ?                    WARN(1)
+c        drawing_2          ministral-3:8b         ?                    WARN(1)
+c        drawing_3          gemini-2.5-flash       طبيعي                OK
+c        drawing_3          gemma4:e4b             طبيعي                OK
+c        drawing_3          qwen2.5vl:7b           concerning           WARN(1)
+c        drawing_3          ministral-3:8b         ايجابي               OK
+c        drawing_4_paper    gemini-2.5-flash       positive             OK
+c        drawing_4_paper    gemma4:e4b             positive             OK
+c        drawing_4_paper    qwen2.5vl:7b           natural              WARN(1)
+c        drawing_4_paper    ministral-3:8b         ايجابي               WARN(1)
+c        drawing_5          gemini-2.5-flash       positive             OK
+c        drawing_5          gemma4:e4b             ايجابي               OK
+c        drawing_5          qwen2.5vl:7b           ?                    WARN(1)
+c        drawing_5          ministral-3:8b         ايجابي               OK
+======================================================================
+

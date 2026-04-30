@@ -1,0 +1,9 @@
+data creation & collecting: I have drawn 3 drawings with different styles trying my best to replicate children's drawings: 1 hour and 15 mins
+getting the baseline outputs (ones from the application itself) was a little time-consuming since you can't extract the full results of each analysis
+in a structured way like JSON or even a table, some manual work was done to obtain them as JSONs
+
+
+========================================================================
+
+* I used AI for validating the boilerplate for the whole task infrastructure before starting - used ChatGPT
+* Also for extracting the JSON baseline outputs from the apps via screen shots - used Gemini

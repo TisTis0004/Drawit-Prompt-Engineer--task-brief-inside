@@ -1,0 +1,5 @@
+openai>=1.0.0
+python-dotenv
+pydantic>=2.0
+tiktoken
+Pillow>=10.0

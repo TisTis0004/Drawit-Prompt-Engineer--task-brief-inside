@@ -1,0 +1,42 @@
+{
+  "drawingTitle": "string",
+  "overallMood": "positive | neutral | concerning",
+  "colorUsage": {
+    "dominantColors": [
+      {
+        "color": "string",
+        "percentage": 0.0,
+        "symbolism": "string"
+      }
+    ],
+    "colorDiversity": 0.0,
+    "emotionalColorChoices": 0.0,
+    "ageAppropriateColorUse": 0.0,
+    "colorSymbolism": "string",
+    "colorPatterns": "string",
+    "unusualColorChoices": "string"
+  },
+  "emotionalIndicators": {
+    "happiness": 0.0,
+    "confidence": 0.0,
+    "creativity": 0.0,
+    "socialBonds": 0.0
+  },
+  "personalityTraits": {
+    "extroversion": 0.0,
+    "emotionalStability": 0.0,
+    "conscientiousness": 0.0,
+    "openness": 0.0,
+    "agreeableness": 0.0
+  },
+  "keyInsights": [
+    {
+      "emoji": "string",
+      "title": "string",
+      "description": "string"
+    }
+  ],
+  "recommendations": ["string"],
+  "concerns": ["string"],
+  "createdAt": "ISO 8601 datetime string"
+}

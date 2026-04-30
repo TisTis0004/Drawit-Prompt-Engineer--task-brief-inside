@@ -1,0 +1,17 @@
+2026-04-30 05:07:34,607 [INFO] drawit.batch: Starting batch: modules=['a', 'b', 'c'] models=['qwen2.5vl:7b'] drawings=['drawing_1', 'drawing_2', 'drawing_3', 'drawing_4_paper', 'drawing_5']
+2026-04-30 05:07:34,607 [INFO] drawit.batch: 
+============================================================
+MODULE A — prompt: v1_original
+============================================================
+2026-04-30 05:07:34,608 [INFO] drawit.batch:   [SKIP] a|qwen2.5vl:7b|drawing_1 — already exists
+2026-04-30 05:07:34,609 [INFO] drawit.batch:   [SKIP] a|qwen2.5vl:7b|drawing_2 — already exists
+2026-04-30 05:07:34,609 [INFO] drawit.batch:   [SKIP] a|qwen2.5vl:7b|drawing_3 — already exists
+2026-04-30 05:07:34,610 [INFO] drawit.batch:   [SKIP] a|qwen2.5vl:7b|drawing_4_paper — already exists
+2026-04-30 05:07:34,611 [INFO] drawit.batch:   [SKIP] a|qwen2.5vl:7b|drawing_5 — already exists
+2026-04-30 05:07:34,613 [INFO] drawit.batch: Comparison table saved → /home/TisTis/Projects/Drawit/Drawit Prompt Engineer, task brief inside/evals/module_a/comparison_table.csv
+2026-04-30 05:07:34,613 [INFO] drawit.batch: 
+============================================================
+MODULE B — prompt: v3_optimized
+============================================================
+2026-04-30 05:07:34,613 [INFO] drawit.batch:   [SKIP] b|qwen2.5vl:7b|drawing_1 — already exists
+2026-04-30 05:07:34,613 [INFO] drawit.batch:   [SKIP] b|qwen2.5vl:7b|drawing_2 — already exists
