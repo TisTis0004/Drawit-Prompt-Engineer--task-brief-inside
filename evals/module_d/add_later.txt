@@ -1,0 +1,3 @@
+If you add an image of a colorful pattern (like the 'F' flower mama made) it will analyze it even though its very far from HTP
+
+One of the issues was the sum of the colors percentages
